@@ -1,0 +1,228 @@
+[
+    {
+        "comparison": "Adidas vs Nike",
+        "arguments": [
+            {
+                "arguments": "I wear Nike shirts cause i like theirs better than Adidas",
+                "relevance": 2
+            },
+            {
+                "arguments": "No wonder why people say adidas is better than Nike",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "comparison": "Apple vs IBM",
+        "arguments": [
+            {
+                "arguments": "IBM has G3 chips much faster than anything Apple is allowed to sell due to a licensing agreement between Apple, IBM, and Motorolla.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "comparison": "Aspirin vs Ibuprofen",
+        "arguments": [
+            {
+                "arguments": "Acetaminophen or aspirin are safer alternatives to manage pain than relying on ones like naproxen, which can increase the risk of heart attack or stroke.",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "comparison": "Boeing vs Airbus",
+        "arguments": [
+            {
+                "arguments": "Much better than Boeing 737",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "comparison": "Canon vs Nikon",
+        "arguments": [
+            {
+                "arguments": "Canon service is significantly better and faster than Nikon service.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "comparison": "Cats vs Dogs",
+        "arguments": [
+            {
+                "arguments": "On the other hand, dogs are superior to cats in every way and if you dont agree, well then, good luck with your empty life without a soul.;2;2;2;2;2\nWhite sugar vs Artificial sweeteners;\\\\\"\\\"I think artificial sweeteners are worse than white sugar\u201d, says Cruise\\\"",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "comparison": "Cement vs Concrete",
+        "arguments": [
+            {
+                "arguments": "Constructed of cement and jute fiber, this NativeStone\u2122 sink is lighter and more attractive than standard concrete .",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "comparison": "Ceramic knives vs Steel knives",
+        "arguments": [
+            {
+                "arguments": "Ceramic knives keep their edge much better than steel knives, and with that comes an almost surgical precision.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "comparison": "Cow milk vs Goat milk",
+        "arguments": [
+            {
+                "arguments": "Goat milk is better than cow milk.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "comparison": "Firefox vs Internet Explorer 7",
+        "arguments": [
+            {
+                "arguments": "Firefox is a faster, easier, and safer browser than Internet Explorer 7.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "comparison": "Football vs Hockey",
+        "arguments": [
+            {
+                "arguments": "Hockey is probably a lot worse than football, given the presence of harder surfaces, sticks, hard pucks, blades, and the speed achieved on skates.",
+                "relevance": 3
+            },
+            {
+                "arguments": "Football is sooooooo much better than Hockey.",
+                "relevance": 2
+            },
+            {
+                "arguments": "Do your research, softball requires greater hand eye coordination than baseball.",
+                "relevance": 0
+            }
+        ]
+    },
+    {
+        "comparison": "IBM vs Dell",
+        "arguments": [
+            {
+                "arguments": "IBM does make better notebooks than Dell anytime, but that\u2019s a personal opinion.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "comparison": "IELTS vs TOEFL",
+        "arguments": [
+            {
+                "arguments": "In this case, you will have to pass IELTS, not TOEFL",
+                "relevance": 0
+            },
+            {
+                "arguments": "Instead of TOEFL you have to pass IELTS, another exam, which is accepted in British Universities",
+                "relevance": 0
+            }
+        ]
+    },
+    {
+        "comparison": "IPod vs a cell phone",
+        "arguments": [
+            {
+                "arguments": "Much better than an iPod/iPhone.",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "comparison": "Kids vs Adults",
+        "arguments": [
+            {
+                "arguments": "Kids figure these things out fast and internalize them with those crazy-flexible brains of theirs.",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "comparison": "NetBeans vs Eclipse",
+        "arguments": [
+            {
+                "arguments": "BTW, I must say that NetBeans has several performance problems, so I rather did some easier refactoring by hand",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "comparison": "Nixon vs Reagan",
+        "arguments": [
+            {
+                "arguments": "Later, when Reagan came to power, I kept thinking, my God, hes worse than Nixon.\"",
+                "relevance": 2
+            },
+            {
+                "arguments": "Nixon was probably smart but Nixon was troubled by unfair criticism",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "comparison": "PHP vs Java",
+        "arguments": [
+            {
+                "arguments": "The point there is not that I could say that \\C++ is faster than Java\\\" because my program returned instantly while the Java version ran for minutes (and hoping nobody noticed my program took a half hour to build.)\"",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "comparison": "PHP vs Python",
+        "arguments": [
+            {
+                "arguments": "Which is roughly 9 times (900%) faster than Perl, and only 3 times (300%) slower than C++.",
+                "relevance": 0
+            }
+        ]
+    },
+    {
+        "comparison": "Python vs R",
+        "arguments": [
+            {
+                "arguments": "Well I actually found it easier to install Erlang than Python.",
+                "relevance": 1
+            },
+            {
+                "arguments": "However, python looks nicer and in many ways is actually much simpler and for many tasks much easier than php.",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "comparison": "Snowboarding vs Skiing",
+        "arguments": [
+            {
+                "arguments": "\\Skiing is worse than snowboarding,\\\" she said.'\"",
+                "relevance": 1
+            },
+            {
+                "arguments": "I\u2019ve never done skiing but I\u2019m quite good at snowboarding",
+                "relevance": 0
+            }
+        ]
+    },
+    {
+        "comparison": "The Family Guy vs The Simpsons",
+        "arguments": [
+            {
+                "arguments": "I think \\The Family Guy\\\" is better than \\\"The Simpsons\\\"\"",
+                "relevance": 2
+            }
+        ]
+    }
+]
