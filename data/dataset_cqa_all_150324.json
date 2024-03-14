@@ -200,23 +200,11 @@
             {
                 "argument": "i tink dey should start using adidas its well better than nike.",
                 "relevance": 2
-            }
-        ]
-    },
-    {
-        "obj1": "Adidas",
-        "obj2": "Nike\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nI wear Nike shirts cause i like theirs better than Adidas",
-        "arguments": [
+            },
             {
                 "argument": null,
                 "relevance": 2
-            }
-        ]
-    },
-    {
-        "obj1": "Adidas",
-        "obj2": "Nike\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nNo wonder why people say adidas is better than Nike",
-        "arguments": [
+            },
             {
                 "argument": null,
                 "relevance": 2
@@ -225,7 +213,7 @@
     },
     {
         "obj1": "Apple",
-        "obj2": "IBM\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nIBM has G3 chips much faster than anything Apple is allowed to sell due to a licensing agreement between Apple, IBM, and Motorolla.",
+        "obj2": "IBM",
         "arguments": [
             {
                 "argument": null,
@@ -321,7 +309,7 @@
     },
     {
         "obj1": "Aspirin",
-        "obj2": "Ibuprofen\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nAcetaminophen or aspirin are safer alternatives to manage pain than relying on ones like naproxen, which can increase the risk of heart attack or stroke.",
+        "obj2": "Ibuprofen",
         "arguments": [
             {
                 "argument": null,
@@ -526,13 +514,7 @@
             {
                 "argument": "You sound like the kind of guy that thinks Airbus makes a better plane than Boeing.",
                 "relevance": 2
-            }
-        ]
-    },
-    {
-        "obj1": "Boeing",
-        "obj2": "Airbus\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nMuch better than Boeing 737",
-        "arguments": [
+            },
             {
                 "argument": null,
                 "relevance": 1
@@ -627,7 +609,7 @@
     },
     {
         "obj1": "Cats",
-        "obj2": "Dogs\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nOn the other hand, dogs are superior to cats in every way and if you don't agree, well then, good luck with your empty life without a soul.",
+        "obj2": "Dogs",
         "arguments": [
             {
                 "argument": null,
@@ -637,7 +619,7 @@
     },
     {
         "obj1": "Cement",
-        "obj2": "Concrete\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nConstructed of cement and jute fiber, this NativeStone\u2122 sink is lighter and more attractive than standard concrete.",
+        "obj2": "Concrete",
         "arguments": [
             {
                 "argument": null,
@@ -795,7 +777,7 @@
     },
     {
         "obj1": "Firefox",
-        "obj2": "Internet Explorer 7\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nFirefox is a faster, easier, and safer browser than Internet Explorer 7.",
+        "obj2": "Internet Explorer 7",
         "arguments": [
             {
                 "argument": null,
@@ -805,31 +787,19 @@
     },
     {
         "obj1": "Football",
-        "obj2": "Hockey\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nDo your research, softball requires greater hand eye coordination than baseball.",
-        "arguments": [
-            {
-                "argument": null,
-                "relevance": 0
-            }
-        ]
-    },
-    {
-        "obj1": "Football",
-        "obj2": "Hockey\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nFootball is sooooooo much better than Hockey.",
+        "obj2": "Hockey",
         "arguments": [
             {
                 "argument": null,
                 "relevance": 2
-            }
-        ]
-    },
-    {
-        "obj1": "Football",
-        "obj2": "Hockey\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nHockey is probably a lot worse than football, given the presence of harder surfaces, sticks, hard pucks, blades, and the speed achieved on skates.",
-        "arguments": [
+            },
             {
                 "argument": null,
                 "relevance": 3
+            },
+            {
+                "argument": null,
+                "relevance": 0
             }
         ]
     },
@@ -1199,7 +1169,7 @@
     },
     {
         "obj1": "IPod",
-        "obj2": "a cell phone\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nMuch better than an iPod/iPhone.",
+        "obj2": "a cell phone",
         "arguments": [
             {
                 "argument": null,
@@ -1471,7 +1441,7 @@
     },
     {
         "obj1": "Kids",
-        "obj2": "Adults\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nKids figure these things out fast and internalize them with those crazy-flexible brains of theirs.",
+        "obj2": "Adults",
         "arguments": [
             {
                 "argument": null,
@@ -1852,13 +1822,7 @@
             {
                 "argument": "keep it up eclipse team... i hope eclipse continues running faster than netbeans... netbeans is really heavy .",
                 "relevance": "3"
-            }
-        ]
-    },
-    {
-        "obj1": "NetBeans",
-        "obj2": "Eclipse\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nBTW, I must say that NetBeans has several performance problems, so I rather did some easier refactoring by hand",
-        "arguments": [
+            },
             {
                 "argument": null,
                 "relevance": 1
@@ -1867,21 +1831,15 @@
     },
     {
         "obj1": "Nixon",
-        "obj2": "Reagan\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nLater, when Reagan came to power, I kept thinking, my God, he's worse than Nixon.",
+        "obj2": "Reagan",
         "arguments": [
+            {
+                "argument": null,
+                "relevance": 1
+            },
             {
                 "argument": null,
                 "relevance": 2
-            }
-        ]
-    },
-    {
-        "obj1": "Nixon",
-        "obj2": "Reagan\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nNixon was probably smart but Nixon was troubled by unfair criticism ",
-        "arguments": [
-            {
-                "argument": null,
-                "relevance": 1
             }
         ]
     },
@@ -2090,13 +2048,7 @@
             {
                 "argument": "php is optimized for web programming, so it might be faster than python.",
                 "relevance": 3
-            }
-        ]
-    },
-    {
-        "obj1": "PHP",
-        "obj2": "Python\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nWhich is roughly 9 times (900%) faster than Perl, and only 3 times (300%) slower than C++.",
-        "arguments": [
+            },
             {
                 "argument": null,
                 "relevance": 0
@@ -2282,13 +2234,7 @@
             {
                 "argument": "that's no easier than python for template designers!",
                 "relevance": 1
-            }
-        ]
-    },
-    {
-        "obj1": "Python",
-        "obj2": "R\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nHowever, python looks nicer and in many ways is actually much simpler and for many tasks much easier than php.",
-        "arguments": [
+            },
             {
                 "argument": null,
                 "relevance": 1
@@ -2297,7 +2243,7 @@
     },
     {
         "obj1": "Snowboarding",
-        "obj2": "Skiing\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\r\nI\u2019ve never done skiing but I\u2019m quite good at snowboarding",
+        "obj2": "Skiing",
         "arguments": [
             {
                 "argument": null,
@@ -2393,7 +2339,7 @@
     },
     {
         "obj1": "White sugar",
-        "obj2": "Artificial sweeteners\r\n\r\n*Rate the sentence from 0 to 3:*\r\n\"I think artificial sweeteners are worse than white sugar\u201d, says Cruise",
+        "obj2": "Artificial sweeteners",
         "arguments": [
             {
                 "argument": null,
