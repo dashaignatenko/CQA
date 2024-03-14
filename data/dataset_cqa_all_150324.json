@@ -1,0 +1,3404 @@
+[
+    {
+        "obj1": "ASP",
+        "obj2": "PHP",
+        "arguments": [
+            {
+                "argument": "ASP is better than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "ASP is simpler than JSP, PHP is more capable than ColdFusion, HTML/OS makes developing apps faster than the others, etc. .",
+                "relevance": 3
+            },
+            {
+                "argument": "ASP was, in our tests, considerably slower than PHP.",
+                "relevance": 3
+            },
+            {
+                "argument": "ASP/VB is often said to be easier to program in than PHP.",
+                "relevance": 3
+            },
+            {
+                "argument": "PHP code is much faster, ASP is developed on the COM based architecture, this is an overhead for the server.",
+                "relevance": 3
+            },
+            {
+                "argument": "PHP code runs faster than ASP.",
+                "relevance": 3
+            },
+            {
+                "argument": "PHP is a much better lang, easier to use, faster, more efficient... better than ASP and pretty much all other scripting langs, plus its open source, multi-platform and free........!!",
+                "relevance": 1
+            },
+            {
+                "argument": "PHP was 10% faster than JSP, 30% faster than ASP and almost 230% faster than .",
+                "relevance": 3
+            },
+            {
+                "argument": "But PHP on IIS will probably be slower than ASP.",
+                "relevance": 3
+            },
+            {
+                "argument": "He said that asp is much better than php because google ranks pages created in asp better.",
+                "relevance": 3
+            },
+            {
+                "argument": "I agree PHP is easier than asp.",
+                "relevance": 2
+            },
+            {
+                "argument": "I'm learning PHP right now and I find it considerably harder than ASP.",
+                "relevance": 3
+            },
+            {
+                "argument": "Imagine PHP appearing less stable and slower than ASP.",
+                "relevance": 0
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Right now I like PHP better then ASP/ASP.",
+                "relevance": 2
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "This is why PHP is superior to ASP/ASP.",
+                "relevance": "2"
+            },
+            {
+                "argument": "Why PHP Is BETTER Than ASP/ASP.",
+                "relevance": 2
+            },
+            {
+                "argument": "edit- also, for the record, I never said that ASP was faster than PHP.",
+                "relevance": 2
+            },
+            {
+                "argument": "php is faster then ASP and JSP.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "Adidas",
+        "obj2": "Nike",
+        "arguments": [
+            {
+                "argument": "Adidas is growing faster than Nike in other Asian markets, too, notably in China.",
+                "relevance": 3
+            },
+            {
+                "argument": "Adidas kits may look nice, but are made of even worse material than Nike.",
+                "relevance": 1
+            },
+            {
+                "argument": "Adidas quality is far greater than that of Nike.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Nike does a much better job with these things than Adidas has.",
+                "relevance": 2
+            },
+            {
+                "argument": "As a result, Nike may be a bit better than the rival, Adidas.",
+                "relevance": 2
+            },
+            {
+                "argument": "Even at 9.6oz , the Talaria is lighter than cleats like the Adidas Predator .",
+                "relevance": 1
+            },
+            {
+                "argument": "He just thought, \"Man, Nike is so much better than Adidas.",
+                "relevance": 2
+            },
+            {
+                "argument": "Honestly Nike voucher system is better than Adidas.",
+                "relevance": 2
+            },
+            {
+                "argument": "I wear Adidas shorts cause i like theirs better than Nike.",
+                "relevance": 2
+            },
+            {
+                "argument": "If Adidas is so much worse than Nike than somebody better tell the NFL.",
+                "relevance": "1"
+            },
+            {
+                "argument": "NIKE is superior to Adidas.",
+                "relevance": 2
+            },
+            {
+                "argument": "New home kit much nicer than looking than adidas,also material looks and feel better than glossy finish adidas kit.new 2nd kit horrible.3rd kit really nice can see it starting a trend with adidas/ nike etc trying similar styles next season.",
+                "relevance": "1"
+            },
+            {
+                "argument": "The Adidas TJ 2 will be a bit lighter (7.8oz), than the Nike TJ 3 (10.0oz).",
+                "relevance": 3
+            },
+            {
+                "argument": "The Adidas brand is way better than Nike or Umbro.",
+                "relevance": 3
+            },
+            {
+                "argument": "The standard Adidas jerseys are much nicer than those by Nike.",
+                "relevance": 2
+            },
+            {
+                "argument": "We found the Nike Fuelband better than the Nike Sportwatch and the Adidas MiCoach.",
+                "relevance": 2
+            },
+            {
+                "argument": "i tink dey should start using adidas its well better than nike.",
+                "relevance": 2
+            },
+            {
+                "argument": "Adidas is growing faster than Nike in other Asian markets, too, notably in China.",
+                "relevance": 3
+            },
+            {
+                "argument": "Adidas kits may look nice, but are made of even worse material than Nike.",
+                "relevance": 3
+            },
+            {
+                "argument": "Adidas quality is far greater than that of Nike.",
+                "relevance": "3"
+            },
+            {
+                "argument": "As a result, Nike may be a bit better than the rival, Adidas.",
+                "relevance": 2
+            },
+            {
+                "argument": "Even at 9.6oz , the Talaria is lighter than cleats like the Adidas Predator .",
+                "relevance": 1
+            },
+            {
+                "argument": "He just thought, \"Man, Nike is so much better than Adidas.",
+                "relevance": 2
+            },
+            {
+                "argument": "Honestly Nike voucher system is better than Adidas.",
+                "relevance": 1
+            },
+            {
+                "argument": "I wear Adidas shorts cause i like theirs better than Nike.",
+                "relevance": 2
+            },
+            {
+                "argument": "If Adidas is so much worse than Nike than somebody better tell the NFL.",
+                "relevance": "1"
+            },
+            {
+                "argument": "NIKE is superior to Adidas.",
+                "relevance": 2
+            },
+            {
+                "argument": "New home kit much nicer than looking than adidas,also material looks and feel better than glossy finish adidas kit.new 2nd kit horrible.3rd kit really nice can see it starting a trend with adidas/ nike etc trying similar styles next season.",
+                "relevance": "1"
+            },
+            {
+                "argument": "Nike does a much better job with these things than Adidas has.",
+                "relevance": 2
+            },
+            {
+                "argument": "The Adidas TJ 2 will be a bit lighter (7.8oz), than the Nike TJ 3 (10.0oz).",
+                "relevance": 1
+            },
+            {
+                "argument": "The Adidas brand is way better than Nike or Umbro.",
+                "relevance": 2
+            },
+            {
+                "argument": "The standard Adidas jerseys are much nicer than those by Nike.",
+                "relevance": 2
+            },
+            {
+                "argument": "We found the Nike Fuelband better than the Nike Sportwatch and the Adidas MiCoach.",
+                "relevance": 2
+            },
+            {
+                "argument": "i tink dey should start using adidas its well better than nike.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "Apple's",
+        "obj2": "Google's",
+        "arguments": [
+            {
+                "argument": "Apple's iPad share in the enterprise market is greater than Google's Android smartphone market share, according to Good Technology's mobile device data report.",
+                "relevance": 3
+            },
+            {
+                "argument": "Apple's pins are so much cooler than Google's pins .",
+                "relevance": 2
+            },
+            {
+                "argument": "Apple's store is safer than Google's, sure.",
+                "relevance": 3
+            },
+            {
+                "argument": "Google's (NASDAQ: GOOG ) Android is versatile, for example, its voice technology on par or better than Apple's Siri .",
+                "relevance": 3
+            },
+            {
+                "argument": "Google's methods for introducing new technology are novel but it hasn't shown that its method is significantly superior to Apple's method of visualizing and inventing the future.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Google's television ads are getting better and better, taking a page out of Apple's book when it comes to making the human element more important than the actual technology behind its features.",
+                "relevance": 3
+            },
+            {
+                "argument": "According to a pair of videos made by Motorola Mobility (soon to be owned by Google), Google's technology is faster than Apple's.",
+                "relevance": 3
+            },
+            {
+                "argument": "Apple has had less malware, and more apps, ergo Apple's curation process is better, from the standpoint of a nicer marketplace, than Google's algorithms.",
+                "relevance": 3
+            },
+            {
+                "argument": "He makes sure to let readers know that Google's Chrome browser is \"safer and better in so many ways\" than Apple's Safari.",
+                "relevance": 3
+            },
+            {
+                "argument": "I do not see Google's implementation to be inferior to Apple's.",
+                "relevance": "3"
+            },
+            {
+                "argument": "I suspect that Google's voice search and voice recognition is probably better (and getting better every day) than Apple's at this point (Apple supposedly uses a third party vendor to supply them with that technology).",
+                "relevance": 3
+            },
+            {
+                "argument": "I think, with Apple's 3D mapping technology, they ought to be able to make such a feature that is superior to Google's, by mapping the imagery onto 3D models.",
+                "relevance": 3
+            },
+            {
+                "argument": "IMO, Google's software is much inferior to Microsoft's, and so is Apple's.",
+                "relevance": 2
+            },
+            {
+                "argument": "In addition, Google's voice recognition is so much better and faster (and sometimes even funnier ) than Apple's somewhat disappointing Siri.",
+                "relevance": 3
+            },
+            {
+                "argument": "In any event, Gibson's observation rings true: Google's getting better at design faster than Apple's getting better at web services.",
+                "relevance": 2
+            },
+            {
+                "argument": "It is fair to say that Google's voice recognition is far better than Apple's Siri (which is based on Dragon Dictate technology).",
+                "relevance": 3
+            },
+            {
+                "argument": "It's Been Less Than 24 Hours And Apple's iOS 7 Already Has A Faster Adoption Rate Than Google's Latest Version Of Android .",
+                "relevance": 3
+            },
+            {
+                "argument": "Software developers believe Google's Android platform has a better long-term outlook, better technological capabilities, and greater openness than Apple's iOS platform.",
+                "relevance": 3
+            },
+            {
+                "argument": "Today Apple's superior OS has already been trounced by Palm's WebOS and emulated by Google's Android, On the Hardware side the technology is basically outsourced, meaning it is no more than a commodity.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Where Google excels is with the user experience which feels more intuitive than Apple's maps, and better than Google's own Android maps app.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "BMW",
+        "obj2": "Audi",
+        "arguments": [
+            {
+                "argument": "Audi is general is inferior to BMW and Mercedes.",
+                "relevance": 2
+            },
+            {
+                "argument": "A6 is more powerful, handles better, is lighter than BMW 5 series.",
+                "relevance": 3
+            },
+            {
+                "argument": "Fast, smooth, and sophisticated, the 2004 A8 L may be the new leader among the high-end luxury sedans.It feels smoother and more refined than the Mercedes S-Class and it's easier to operate and better looking than the BMW 7 Series.",
+                "relevance": 3
+            },
+            {
+                "argument": "I HAVE NO WORDS, ITS THE BEST IN THE MARKET, WHAT ONE CAN BUY IN THIS CATEGORY... ITS BETTER THAN CAYENE, BMW X-5, BENZ... SO GUYS START SAVING YOUR EACH PENNY TO OWN THIS VEHICLE.",
+                "relevance": 0
+            },
+            {
+                "argument": "I am a BMW fan and because it is superior to Audi.",
+                "relevance": 2
+            },
+            {
+                "argument": "I do admit that the M6 is amazing and will likely be the next vehicle when I know longer want to drive on the track---quality of BMW is clearly better than Audi so far.",
+                "relevance": 3
+            },
+            {
+                "argument": "It feels smoother and more refined than the Mercedes S-Class and it's easier to operate and better looking than the BMW 7 Series.",
+                "relevance": 0
+            },
+            {
+                "argument": "It is far easier for BMW to bake \"sport\" into a cheaper vehicle than it is to bake in E or S-Class virtues into a cheaper vehicle.",
+                "relevance": 0
+            },
+            {
+                "argument": "Jeremy himself admitted the Audi to be ahead in technology, faster but no quicker neither more enjoyable than a BMW.",
+                "relevance": 3
+            },
+            {
+                "argument": "MUCH faster and better appointed than a BMW 335i, and being my second one I can say reliability has been wonderful.",
+                "relevance": 0
+            },
+            {
+                "argument": "Outhandles a BMW, more reliable than a Lexus, better made than a Audi, safer than a Volvo.",
+                "relevance": 3
+            },
+            {
+                "argument": "That 4.0 sprint is a half-second quicker than our May forecast for the manual model, a tenth quicker than Audi's official forecast, a half-second quicker than the 1-series M Bimmer , and just a tenth slower than the BMW M3 that topped a September 2010 comparison.",
+                "relevance": 3
+            },
+            {
+                "argument": "That said, the BMW is lighter then the Audi.",
+                "relevance": 3
+            },
+            {
+                "argument": "The Audi A8 feels lighter, faster, and seems to track a bit better when being driven very hard... more so than the Mercedes S Class or BMW 7 Series.",
+                "relevance": 3
+            },
+            {
+                "argument": "The BMW iDrive is far superior to Audi in this regard.",
+                "relevance": 2
+            },
+            {
+                "argument": "They are not lighter then the BMW rwd counterparts, and around 100lbs lighter than their xdrive rivals.",
+                "relevance": 0
+            },
+            {
+                "argument": "This four-cylinder vehicle promises both better performance from 0 to 60 and better fuel economy than its competition such as the Lexus IS250 AWD, Mercedes-Benz C300 and the BMW 328i.",
+                "relevance": 0
+            },
+            {
+                "argument": "Yet BMW is still faster than Audi.",
+                "relevance": 3
+            },
+            {
+                "argument": "dry weight, this car is lighter and faster than the S430 and equal with the BMW 740iL.",
+                "relevance": 0
+            },
+            {
+                "argument": "just about 3/10s of a second faster(and the M is lighter)... I REALLY SEE THE PERFORMANCE EDGE BMW HAS... and i know y u wanted me to compare to the 335.",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "obj1": "Boeing",
+        "obj2": "Airbus",
+        "arguments": [
+            {
+                "argument": "Airbus are not better then Boeing!",
+                "relevance": 1
+            },
+            {
+                "argument": "Airbus, the European plane manufacturer, has orders for about 200 A380s, which can carry more passengers with greater fuel efficiency than other large planes such as Boeing 747s.",
+                "relevance": 3
+            },
+            {
+                "argument": "Boeing claims the new plane will be 10% lighter per seat and consume 11% less fuel than the A380 from its chief rival Airbus, which is designed to carry 555 passengers.",
+                "relevance": 3
+            },
+            {
+                "argument": "Boeing continues to claim that engine advances, lighter materials and aerodynamic advances will create an airliner that flies faster but uses less fuel than current designs, including the best Airbus has to offer... .",
+                "relevance": 3
+            },
+            {
+                "argument": "Boeing only has to run faster than Airbus.",
+                "relevance": 3
+            },
+            {
+                "argument": "Christophe Menard, aerospace and defence analyst at Kepler Capital Markets in Paris, said that despite delays on the A350, Airbus was getting the plane out faster than Boeing managed to do with its Dreamliner.",
+                "relevance": 3
+            },
+            {
+                "argument": "Christophe Menard, aerospace and defence analyst at Kepler Capital Markets in Paris, said that despite its own delays on the A350, Airbus was getting the plane out faster than Boeing managed with the Dreamliner.",
+                "relevance": 3
+            },
+            {
+                "argument": "Christophe Menard, aerospace and defense analyst at Kepler Capital Markets in Paris, said that despite its own delays on the A350, Airbus was getting the plane out faster than Boeing managed with the Dreamliner.",
+                "relevance": 3
+            },
+            {
+                "argument": "However, I believe that Boeing long-haul widebodies are superior to that of airbus.",
+                "relevance": 3
+            },
+            {
+                "argument": "I'm tired of this nonsensical back-and-forth about whether Airbus is better than Boeing, Boeing is better than Airbus or this plane is better than that, couched in purely personal biases and usually broad-based opinions.",
+                "relevance": 0
+            },
+            {
+                "argument": "In some respect, its software is even better than the Boeing 777 but I think it lost out in the hardware aspect of the plane.",
+                "relevance": 0
+            },
+            {
+                "argument": "In this respect, the Boeing 777 is a better plane than the Airbus A300.",
+                "relevance": 2
+            },
+            {
+                "argument": "Quoting FlyNWA727 ( Reply 21 ): There will be a market for VLA's down the road, and when it does happen, Boeing will have the advantage because they will have the resources to produce one and the plane will be technologically superior to the Airbus.",
+                "relevance": 3
+            },
+            {
+                "argument": "Quoting Stitch ( Reply 23 ): So Boeing can't make a better plane than Airbus, but Airbus can always make a better plane then Boeing .",
+                "relevance": 2
+            },
+            {
+                "argument": "Some of the plane loaders that I know said to me, that after TAP switched from the bulk loaded 737-300 to the A320, work now is much easier, they are very happy with the Airbus cargo system, much better than the Boeing 737.",
+                "relevance": 3
+            },
+            {
+                "argument": "The actual aim of Boeing is also important, they intend to make a better plane than Airbus A380, excluding that 800 pax.",
+                "relevance": 0
+            },
+            {
+                "argument": "There will be a market for VLA's down the road, and when it does happen, Boeing will have the advantage because they will have the resources to produce one and the plane will be technologically superior to the Airbus.",
+                "relevance": 3
+            },
+            {
+                "argument": "To Airbus' credit the A320 is proving to be a superior plane - year after year... Time for Boeing to deliver in this segment.",
+                "relevance": 1
+            },
+            {
+                "argument": "With the Boeing plane lighter than the Airbus, the MAX version of the LEAP is much smaller than the neo version - 69 inches vs. 78 inches in diameter.",
+                "relevance": 3
+            },
+            {
+                "argument": "You sound like the kind of guy that thinks Airbus makes a better plane than Boeing.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "Canon",
+        "obj2": "Nikon",
+        "arguments": [
+            {
+                "argument": "Canon 24-70mm 2.8 II on 2.8 is better and 135mm 2L is a little sharper and have much faster auto-focus than Nikon 135mm 2.0DC.",
+                "relevance": 3
+            },
+            {
+                "argument": "Canon F1n is a camera I regret not having still to fondle... I think is was smoother than a Leica and very well made... IMO better made the the Nikon F3 or F4.",
+                "relevance": 3
+            },
+            {
+                "argument": "Canon service is significantly better and faster than Nikon service.",
+                "relevance": 3
+            },
+            {
+                "argument": "Nikon glass is superior to canon.",
+                "relevance": 3
+            },
+            {
+                "argument": "Nikon is better but still makes only 4 f/2.8 or faster DX lenses; Canon only make 2 EF-S f/2.8 lenses and none faster than f/2.8.",
+                "relevance": 3
+            },
+            {
+                "argument": "Nikon is putting better sensors into its low-end cameras, which means, in short, that the D3300 takes nicer photographs than comparable Canon models.",
+                "relevance": 3
+            },
+            {
+                "argument": "Although the Coolpix A offers +3 Stops better Dynamic Range at ISO100 results drop off quicker than the Canon and at ISO 400 the difference is closer to +1 Stop and from ISO 1600 onwards they are the same.",
+                "relevance": 1
+            },
+            {
+                "argument": "Because some people think that a newer camera makes them a better photographer, others want to feel superior than Canon shooter or at least not inferior.",
+                "relevance": 1
+            },
+            {
+                "argument": "For this reason, although the SCIENTIFIC results attest that the Nikon D800 is superior to all other Cameras and MUCH BETTER THAN THE Canon 5Dmk3, some sandwich-boards of Canon are invading our photos-forums to make disinformation.",
+                "relevance": 3
+            },
+            {
+                "argument": "I suspect Canon will be wise and keep with the EF mount, as its greater size allows them to experiment and design new technologies a little easier than for Nikon with the smaller F mount.",
+                "relevance": 3
+            },
+            {
+                "argument": "If Measured delta is less than Theoretical delta, the Canon pixel has a better SNR; if Measured delta is greater than Theoretical delta, the Nikon pixel has a better SNR.",
+                "relevance": 2
+            },
+            {
+                "argument": "It is far more pleasant, easier and faster to use than anything from Canon.",
+                "relevance": 1
+            },
+            {
+                "argument": "Overall, Canon has better sports lenses, and then of course there is the 1DX which is superior to any Nikon camera in existance.",
+                "relevance": 3
+            },
+            {
+                "argument": "Overall, Canon has better sports lenses, and then of course there is the 1DX which is superior to any Nikon camera in existance. . ..",
+                "relevance": 3
+            },
+            {
+                "argument": "Switching settings on a Canon is easier and faster than a Nikon.",
+                "relevance": 2
+            },
+            {
+                "argument": "That's faster than its predecessor despite the 50 per cent greater resolution and matches up to the Canon EOS 650D.",
+                "relevance": 1
+            },
+            {
+                "argument": "The professional Canon 1D X is faster and better than any Nikon body, so you'll probably upgrade everything to Canon after using the 1D X anyway, so look at all the money I just saved you.",
+                "relevance": 3
+            },
+            {
+                "argument": "The system you chose may well be best for you, but to say that Canon 'macro' is superior or better value than Nikon is pure nonsense.",
+                "relevance": 2
+            },
+            {
+                "argument": "This is the rather moment for Canon to make a camera that's more rugged, better handling, and with nicer color and tonality than the incumbent Nikon.",
+                "relevance": 2
+            },
+            {
+                "argument": "Where the Nikon D3300 excels compared to its primary competition is the fact that right now, Nikon is putting better sensors into its low-end cameras, which means, in short, that the D3300 takes nicer photographs than comparable Canon models.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "Cement",
+        "obj2": "Concrete",
+        "arguments": [
+            {
+                "argument": "Constructed of cement and jute fiber, this NativeStone\u2122 sink is lighter and more attractive than standard concrete .",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "Cow milk",
+        "obj2": "Goat milk",
+        "arguments": [
+            {
+                "argument": "Goat milk is better than cow milk.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "Family Guy",
+        "obj2": "The Simpsons",
+        "arguments": [
+            {
+                "argument": "Family Guy and American Dad have been better than the Simpsons for years.",
+                "relevance": 2
+            },
+            {
+                "argument": "Family Guy is better than the Simpsons EVER was in my opinion.",
+                "relevance": 2
+            },
+            {
+                "argument": "Family Guy is in no way better than The Simpsons.",
+                "relevance": 2
+            },
+            {
+                "argument": "Family Guy is in way worse condition than the Simpsons.",
+                "relevance": 2
+            },
+            {
+                "argument": "Family Guy is way way better than the Simpsons nowadays.",
+                "relevance": 3
+            },
+            {
+                "argument": "The Simpsons are better than Family Guy.",
+                "relevance": 2
+            },
+            {
+                "argument": "Family guy is so much better than the simpsons as well!",
+                "relevance": 2
+            },
+            {
+                "argument": "Family guy is way better than the Simpsons .",
+                "relevance": 2
+            },
+            {
+                "argument": "Honestly, The Simpsons have had a better run this season than Family Guy.",
+                "relevance": 2
+            },
+            {
+                "argument": "I always felt The Simpsons was far better than Family Guy.",
+                "relevance": 2
+            },
+            {
+                "argument": "I find South Park and the Simpsons fresher and easier to watch than Family Guy.",
+                "relevance": "3"
+            },
+            {
+                "argument": "I think \"The Family Guy\" is better than \"The Simpsons\".",
+                "relevance": 2
+            },
+            {
+                "argument": "I will predict that the Family Guy movie will be better than the Simpsons movie.",
+                "relevance": 2
+            },
+            {
+                "argument": "It's funny, it's adventurous - and it's still way better than Family Guy .",
+                "relevance": 1
+            },
+            {
+                "argument": "Liking Family Guy better than the Simpsons 10.",
+                "relevance": 1
+            },
+            {
+                "argument": "That's not to say Family Guy is better written than the Simpsons.",
+                "relevance": 3
+            },
+            {
+                "argument": "Why The Simpsons is better than Family Guy .",
+                "relevance": "1"
+            },
+            {
+                "argument": "family guy is better than the simpsons, and futurama blows.",
+                "relevance": 2
+            },
+            {
+                "argument": "l agree with phil family guy some ether cartoons are much worse then the simpsons.",
+                "relevance": 3
+            },
+            {
+                "argument": "the simpsons is way better than family guy in my opinion though family guy is still pretty cool.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "Firefox",
+        "obj2": "Internet Explorer 7",
+        "arguments": [
+            {
+                "argument": "Firefox is a faster, easier, and safer browser than Internet Explorer 7.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "Football",
+        "obj2": "Hockey",
+        "arguments": [
+            {
+                "argument": "Do your research, softball requires greater hand eye coordination than baseball.",
+                "relevance": 0
+            },
+            {
+                "argument": "Football is sooooooo much better than Hockey.",
+                "relevance": 2
+            },
+            {
+                "argument": "Hockey is probably a lot worse than football, given the presence of harder surfaces, sticks, hard pucks, blades, and the speed achieved on skates.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "Ford",
+        "obj2": "Toyota",
+        "arguments": [
+            {
+                "argument": "Ford also states that he C-Max Energi will offer better electric mode economy and a greater driving range (along with more space) than the Toyota Prius Plug-In.",
+                "relevance": 3
+            },
+            {
+                "argument": "Ford seats are superior to Toyota.",
+                "relevance": 2
+            },
+            {
+                "argument": "Ford these days have extremely well-engineered products that are no longer inferior to Honda or Toyota.",
+                "relevance": 3
+            },
+            {
+                "argument": "Toyota faster than Ford!",
+                "relevance": 3
+            },
+            {
+                "argument": "Toyota is always a smarter buy than Ford, GM, or Dodge when it comes to anything in a half ton truck or lighter.",
+                "relevance": 3
+            },
+            {
+                "argument": "As Bubba2000 mentioned, Toyota has most things standard albeit a higher starting price but that's why it is simpler and easier to understand a Toyota than a Ford or GM car.",
+                "relevance": 3
+            },
+            {
+                "argument": "Asking if Perl is slower or uses more resources that PHP is like asking if a Ford gets better gas mileage than a Toyota.",
+                "relevance": "0"
+            },
+            {
+                "argument": "Conclusion Type A: Ford is a safer car than Toyota, since it protected its driver and passenger much better than Toyota did.",
+                "relevance": 3
+            },
+            {
+                "argument": "I wanted Ford to do better than Toyota so Toyota will have to work harder.",
+                "relevance": 2
+            },
+            {
+                "argument": "It was also priced 5 grand higher than the much smoother riding, more powerful and far better equipped Ford Ranger Sport (which now comes with a 100,000 mile warranty).",
+                "relevance": "1"
+            },
+            {
+                "argument": "My Ford was nicer and better than my Toyota is.",
+                "relevance": 2
+            },
+            {
+                "argument": "Next up - Steve Balmer thinks Windows is superior to Mac and Ford thinks they are better than Toyota.",
+                "relevance": 2
+            },
+            {
+                "argument": "Now with smarter than ever technology a few options to choose from such as 360 degree camera with split-view display, Blind Spot Information System (BLIS) and many more it's never been easier to drive a Ford.",
+                "relevance": 1
+            },
+            {
+                "argument": "Stop just automatically believing that GM and Ford are inferior to Honda and Toyota.",
+                "relevance": 2
+            },
+            {
+                "argument": "The 2014 Ford Explorer offers a greater level of technology than the 2014 Toyota Highlander.",
+                "relevance": 3
+            },
+            {
+                "argument": "The 300C is only slightly quicker than the Avalon at the penalty of several MPG, the 3.5 V6 actually a better engine choice(thank you MB) that is far superior to that 1970 vintage mixmaster Ford engine.",
+                "relevance": 1
+            },
+            {
+                "argument": "The Aurion ATX offers matching or better performance, competitive fuel efficiency, better build quality, greater levels of refinement, and all in a package that costs considerably less than both the Ford and Holden.",
+                "relevance": "2"
+            },
+            {
+                "argument": "The build quality is far superior to a Ford.",
+                "relevance": 1
+            },
+            {
+                "argument": "The new Ford Focus comes with a 6-speed automatic and we've found it to be smoother and better able to keep the engine in the heart of the power band than the 4-speed automatic in the Toyota can.",
+                "relevance": 3
+            },
+            {
+                "argument": "Yes Ford is still a little slower than Toyota, but Mulhally has them on the right track.",
+                "relevance": 3
+            },
+            {
+                "argument": "Now with smarter than ever technology a few options to choose from such as 360 degree camera with split-view display, Blind Spot Information System (BLIS) and many more it's never been easier to drive a Ford.",
+                "relevance": 1
+            },
+            {
+                "argument": "Asking if Perl is slower or uses more resources that PHP is like asking if a Ford gets better gas mileage than a Toyota.",
+                "relevance": "0"
+            }
+        ]
+    },
+    {
+        "obj1": "Hulk",
+        "obj2": "Superman",
+        "arguments": [
+            {
+                "argument": "\"Ang Lee's HULK was better than Donner's SUPERMAN.\"",
+                "relevance": 2
+            },
+            {
+                "argument": "Superman Returns was a worse film than the discarded attempt at the Hulk before the last Hulk - it should be discarded and forgotten as well.",
+                "relevance": 2
+            },
+            {
+                "argument": "Superman is more 100 times better than the hulk.",
+                "relevance": 2
+            },
+            {
+                "argument": "Also, superman is pretty quick, faster than hulk.",
+                "relevance": 3
+            },
+            {
+                "argument": "Also, superman is quite quickly, faster than hulk.",
+                "relevance": 2
+            },
+            {
+                "argument": "And that is why the Hulk is worse than Superman.",
+                "relevance": 2
+            },
+            {
+                "argument": "Even Superman Retreads was better than Hulk.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Even if we agree that Hulk can eventually get limitless strength that is greater than Superman's...Superman is never going to let him get to that level...not if he is not holding back that is and going full out.",
+                "relevance": "3"
+            },
+            {
+                "argument": "He speaks worse than stupid Hulk does.",
+                "relevance": 1
+            },
+            {
+                "argument": "I liked Superman better than Hulk but Hulk is underrated and is nowhere as bad as people say.",
+                "relevance": "3"
+            },
+            {
+                "argument": "I mean, there is no point bragging that you are faster than the Hulk.",
+                "relevance": "0"
+            },
+            {
+                "argument": "In the comics, any Superman outside of PC, isn't physically superior to Hulk.",
+                "relevance": 3
+            },
+            {
+                "argument": "It was a great sequence, and a lot better than anything I saw in Lettier's later Incredible Hulk.",
+                "relevance": 1
+            },
+            {
+                "argument": "Its a little hard to say.Juggernaut has a constant level of strength while Hulks increases.Juggs however is alot smarter than Hulk(with the execption of WWH).",
+                "relevance": 1
+            },
+            {
+                "argument": "Leinil Francis Yu is the artist of Secret Invasion, Superman Birthright, Superior and Indestructible Hulk, among many others.",
+                "relevance": 0
+            },
+            {
+                "argument": "Much more than likely it would be superman in this case, not since he is smarter but since Batman would examine hulk, make a gamma-reducer (like Ultron did), and use it around the Hulk.",
+                "relevance": 3
+            },
+            {
+                "argument": "Much more than likely it would be superman in this situation, not simply because he's smarter but because Batman would review hulk, make a gamma-reducer (like Ultron did), and use it around the Hulk.",
+                "relevance": 1
+            },
+            {
+                "argument": "Not because Superman and Capt. Marvel are \"stronger\" because outside of their silver age versions, there is no showings of either of them being physically superior to Hulk.",
+                "relevance": "1"
+            },
+            {
+                "argument": "Not only that, he's smart-not smarter than Dr. Bruce Banner, but definitely smarter than the Hulk.",
+                "relevance": 2
+            },
+            {
+                "argument": "WASHINGTON - Superman is faster than a speeding bullet, the Hulk has his superhuman strength when he gets fired up, Spiderman can race though crowded city streets on his webs.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "Ibuprofen",
+        "obj2": "Aspirin",
+        "arguments": [
+            {
+                "argument": "Aspirin is also very hard on the stomach, much harder than ibuprofen.",
+                "relevance": 3
+            },
+            {
+                "argument": "Ibuprofen is better for you than aspirin.",
+                "relevance": 2
+            },
+            {
+                "argument": "Ibuprofen is quite a bit safer than Aspirin, considering the reversible nature of the antiplatelet effects .",
+                "relevance": 3
+            },
+            {
+                "argument": "Ibuprofen is usually works better than aspirin for relieving menstrual cramps.",
+                "relevance": 3
+            },
+            {
+                "argument": "Ibuprofen tends to work better for men, paracetomol is easier on the stomach than aspirin etc, etc.",
+                "relevance": 2
+            },
+            {
+                "argument": "9 A study that included these more severe cases reported that acetaminophen/aspirin/caffeine is superior to 400 mg of ibuprofen.",
+                "relevance": 2
+            },
+            {
+                "argument": "Acetaminophen or aspirin are safer alternatives to manage pain than relying on ones like ibuprofen and naproxen, which can increase the risk of heart attack or stroke.",
+                "relevance": 3
+            },
+            {
+                "argument": "If your knees are already well oiled, I find aspirin does a better job than ibuprofen when it comes to headache remedies.",
+                "relevance": "3"
+            },
+            {
+                "argument": "In most cases, aspirin is considered inferior to ibuprofen for the alleviation of pain, because aspirin is more likely to cause gastrointestinal bleeding.",
+                "relevance": "3"
+            },
+            {
+                "argument": "In point of fact, ibuprofen for dogs is even worse and more dangerous than aspirin, and should be avoided at all costs.",
+                "relevance": "3"
+            },
+            {
+                "argument": "My mother swears that real aspirin is better than ibuprofen for a sunburn, but I think you have to start taking it right away.",
+                "relevance": 2
+            },
+            {
+                "argument": "Naprosyn E is an enteric coated naproxen, which I found to work better than ibuprofen for some kinds of pain, but naproxen is worse than aspirin on the stomach.",
+                "relevance": 2
+            },
+            {
+                "argument": "OTC products that contain a blend of acetaminophen, aspirin, and caffeine were found to relieve pain 20 minutes faster than ibuprofen.",
+                "relevance": 3
+            },
+            {
+                "argument": "Sunshine et al found ibuprofen to be significantly superior to aspirin in the relief of post-episiotomy pain.",
+                "relevance": 3
+            },
+            {
+                "argument": "Sunshine et al found ibuprofen to be significantly superior to aspirin in the relief of postepisiotomy pain.",
+                "relevance": 3
+            },
+            {
+                "argument": "Using something like Excedrin Migraine (a mixture of tylenol, aspirin, and caffeine) works way better than straight Advil/Motrin/ibuprofen.",
+                "relevance": "1"
+            },
+            {
+                "argument": "We actually joked that aspirin might have been a better choice than ibuprofen since the metabolic acidosis of aspirin and metabolic alkalosis from the massive bicarb overdose might have cancelled each other out.",
+                "relevance": 3
+            },
+            {
+                "argument": "Would aspirin be a better choice than the Ibuprofen that he fears might be bad for his liver.",
+                "relevance": 1
+            },
+            {
+                "argument": "[ 53 ] Ibuprofen is also superior to aspirin in children with fevers.",
+                "relevance": 3
+            },
+            {
+                "argument": "take Advil (ibuprofen is a better anti-inflammatory than aspirin or acetaminophen) .",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "Internet Explorer",
+        "obj2": "Firefox",
+        "arguments": [
+            {
+                "argument": "Firefox 3 was a noticeable improvement in browser speed over Firefox 2, which itself is many times faster (and better) than Internet Explorer.",
+                "relevance": 3
+            },
+            {
+                "argument": "Firefox gobbled up market share by being a significantly better, friendlier, safer and easier to use product than Internet Explorer.",
+                "relevance": 3
+            },
+            {
+                "argument": "Firefox is a faster, easier, and safer browser than Internet Explorer 7.",
+                "relevance": 3
+            },
+            {
+                "argument": "Firefox is a relatively lightweight browser, making it faster and simpler to use than other browsers, such as Internet Explorer.",
+                "relevance": 3
+            },
+            {
+                "argument": "Internet Explorer(9) is faster, better, and has less add-ons than firefox, google chrome, and every other browser.",
+                "relevance": 3
+            },
+            {
+                "argument": "Also, Internet Explorer may wok better for this than Firefox or some 3rd-party browser.",
+                "relevance": 2
+            },
+            {
+                "argument": "Also, Internet Explorer sometimes streams better for me than Firefox (my browser of choice).",
+                "relevance": 3
+            },
+            {
+                "argument": "But in my opinion Firefox is better than Internet Explorer Because Firefox is more faster, more secure and customizable than any other browser.",
+                "relevance": 3
+            },
+            {
+                "argument": "Close to being the browser that users' dreams are made of, Firefox is safer, faster, and more powerful than Internet Explorer.",
+                "relevance": 3
+            },
+            {
+                "argument": "FIREFOX - Safer alternative to the Internet Explorer web browser.",
+                "relevance": 3
+            },
+            {
+                "argument": "For example, a friend recently complained that Mozilla's new Firefox browser was slower on various sites than Internet Explorer.",
+                "relevance": 3
+            },
+            {
+                "argument": "I use Firefox as my browser (it is a free download) It works faster and better than internet explorer.",
+                "relevance": 3
+            },
+            {
+                "argument": "I use Firefox because for a long time I believed it was a superior and safer browser than Internet Explorer 6.",
+                "relevance": 3
+            },
+            {
+                "argument": "It is much faster, safer and smoother than Internet Explorer.",
+                "relevance": 0
+            },
+            {
+                "argument": "Not any better than Internet Explorer , because this Browser, too can have advance.",
+                "relevance": 1
+            },
+            {
+                "argument": "Someone asked me how to explain to his friend who is adamant that Internet Explorer is superior to other browsers available, why it isn't so superior, and why Mozilla Firefox is truly the best browser to use right now.",
+                "relevance": 2
+            },
+            {
+                "argument": "Surprisingly, Chrome tested worse than even Internet Explorer in the HTML5 and WebGL tests, but consistently proved it could load a page faster than any other browser.",
+                "relevance": 1
+            },
+            {
+                "argument": "The desktop version of Internet Explorer 11 was 57% faster than the slowest browser in this test - Mozilla Firefox.",
+                "relevance": 3
+            },
+            {
+                "argument": "Their testing showed that Internet Explorer 10 and Chrome were far superior to their major browser rivals (Firefox, Safari and Opera): .",
+                "relevance": 2
+            },
+            {
+                "argument": "a friend recently complained that Mozilla's new Firefox browser was slower on various sites than Internet Explorer.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "Kenya",
+        "obj2": "Tanzania",
+        "arguments": [
+            {
+                "argument": "\"But Tanzanian might end up doing better than Kenya and Uganda.\"",
+                "relevance": 2
+            },
+            {
+                "argument": "Kenya is doing better than Tanzania in this industry because of the infrastructural rigidities inherent in Tanzania's export system.",
+                "relevance": 3
+            },
+            {
+                "argument": "Tanzania appears much poorer than Kenya and the landscape, whilst breathtakingly beautiful, appears a very tough place to eke out a living.",
+                "relevance": 3
+            },
+            {
+                "argument": "Tanzania is 100 times safer than kenya and that is a known fact.",
+                "relevance": 3
+            },
+            {
+                "argument": "A little birdie told us this is why Tanzania parks are so much better than Kenya ones.",
+                "relevance": 1
+            },
+            {
+                "argument": "After going through border control and immigration, we changed drivers and transferred into a 4WD landcruiser as the roads in Tanzania are worse than Kenya!",
+                "relevance": 2
+            },
+            {
+                "argument": "And as I wrote about earlier , on most scores, Kenya is performing better than East African neighbors, Uganda and Tanzania.",
+                "relevance": 1
+            },
+            {
+                "argument": "Extending over 945,166km2, it is one of the largest countries in sub-Saharan Africa, covering a greater area than Kenya and Uganda combined.",
+                "relevance": 1
+            },
+            {
+                "argument": "For those in the know, comparably, Kenya is even better than Tanzania.",
+                "relevance": 2
+            },
+            {
+                "argument": "I love Tanzania more than most of your citizens, and I think Tanzania is doing better than that of Kenya in wildlife conservation.",
+                "relevance": 2
+            },
+            {
+                "argument": "Participants from Kenya and Namibia reported greater depressive symptoms than those from Tanzania.",
+                "relevance": 3
+            },
+            {
+                "argument": "Policy measures taken in Tanzania maintained food security at a better level than its neighbour Kenya.",
+                "relevance": 3
+            },
+            {
+                "argument": "The international airport in Nairobi, Kenya is bigger and better served than Dar es Salaam, Tanzania so most tourists coming to Tanzania start in Kenya.",
+                "relevance": 3
+            },
+            {
+                "argument": "The lion population in Tanzania alone may be greater than the lion population estimates for all of Africa cited by Kenya.",
+                "relevance": 3
+            },
+            {
+                "argument": "The most corrupt is definitely Tanzania, much worse than kenya who I am aware of too.",
+                "relevance": 2
+            },
+            {
+                "argument": "The roads in Tanzania are MUCH better than those in Kenya, so road transfers were tolerable.",
+                "relevance": 3
+            },
+            {
+                "argument": "Today Kenya is possibly worse off than its neighbor, Tanzania, since its greater industrial and commercial development means that, if things go wrong, it has further to fall and would probably fall faster.",
+                "relevance": 3
+            },
+            {
+                "argument": "We decided to start a program in Tanzania-a country even poorer than Kenya and one with a socialist and much less entrepreneurial history.",
+                "relevance": 3
+            },
+            {
+                "argument": "We really couldn't believe that Kenya would be better than Tanzania and it wasn't but Rwanda was so fabulous that it over shadows the less than stellar moments in Kenya.",
+                "relevance": 2
+            },
+            {
+                "argument": "to be honest I don't know if Tanzania is better than Kenya or South Africa.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "Linux",
+        "obj2": "Windows",
+        "arguments": [
+            {
+                "argument": "Linux (especially modern distros like Mint) is easier to deploy, faster, more flexible and just all-round better than Windows will ever be.",
+                "relevance": 3
+            },
+            {
+                "argument": "Windows 7 is faster and architecturally far better than Linux.",
+                "relevance": 3
+            },
+            {
+                "argument": "Windows 7 seems to install, boot and run much smoother & faster than each the three linux distros I have recently tried (Ubuntu 12.04 unity, Linux mint 13 MATE, and Fedora 17 on gnome 3.4).",
+                "relevance": 3
+            },
+            {
+                "argument": "A Windows that runs is better than a superior Linux that won't install.",
+                "relevance": 2
+            },
+            {
+                "argument": "A nice Linux distro is faster, easier to use, more flexible, and all around better than Windows (XP, let alone Vista!)",
+                "relevance": 3
+            },
+            {
+                "argument": "BeatrIX Linux is a compact (less than 200MB) operating system aimed at both office and home users who want something simpler, safer and superior to Microsoft Windows, and that will run on just about any IBM-compatible PC made in the past 10 years.",
+                "relevance": 2
+            },
+            {
+                "argument": "For those who claim that windows just works far better or easier than Linux just google \"windows problems\" and then \"Linux problems\".",
+                "relevance": 2
+            },
+            {
+                "argument": "However if all you want to do is surf the web and do email, a linux netbook will do it quicker, safer and with much better battery life than a Windows laptop - by an order of magnitude.",
+                "relevance": 3
+            },
+            {
+                "argument": "I've experienced it myself, coming from Windows users when I skewered the myth of Windows being an easier, faster, better install than Linux.",
+                "relevance": 2
+            },
+            {
+                "argument": "In most cases, installing and configuring linux is not only easier but MUCH, much faster than installing windows.",
+                "relevance": 3
+            },
+            {
+                "argument": "In the beginning (for me) there were things that Windows could do better and easier than Linux.",
+                "relevance": 2
+            },
+            {
+                "argument": "It's smarter and faster than Vista, it's the perfect OS if you can afford it, if not, well you always have Linux !",
+                "relevance": 1
+            },
+            {
+                "argument": "My Firefox runs faster, feels more stable and works better in my Linux box (Gentoo) then in any Windoze PC Ive seen it.",
+                "relevance": 2
+            },
+            {
+                "argument": "Ok, to all those saying they can do most things in linux faster and easier than people in windows, i say BS.",
+                "relevance": 2
+            },
+            {
+                "argument": "Personally, (and I have tried this with several of my other machines), I find Linux to boot quicker, run smoother, have a longer battery life, and run better in general then my Windows, or Mac machines.",
+                "relevance": 3
+            },
+            {
+                "argument": "Plus, using a Linux-based bootable/recovery/emergency USB/CD/DVD is a much better, safer, and faster way to grab files from your broken/crashed/unbootable Windows than using file/data recovery programs.",
+                "relevance": 3
+            },
+            {
+                "argument": "Running this beta of Windows 8 was much smoother and nicer than it can be at times running the latest Linux development packages for some upcoming distribution.",
+                "relevance": 2
+            },
+            {
+                "argument": "Unless Microsoft puts out a really advanced operating system, people will flock to Linux, because it is going to be faster, safer, prettier, easier and cheaper than Windows.",
+                "relevance": 3
+            },
+            {
+                "argument": "linux is way faster and smoother than windows.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "London",
+        "obj2": "Paris",
+        "arguments": [
+            {
+                "argument": "\" Paris is a better art center/tourist city/place to do business/ representative of its country/place to eat than London.",
+                "relevance": 2
+            },
+            {
+                "argument": "( Original post by navarre ) Paris is inferior to London in every way.",
+                "relevance": 2
+            },
+            {
+                "argument": "London has been voted a better gastronomic city than Paris, and even English cheese has come out ahead of French cheese.",
+                "relevance": 3
+            },
+            {
+                "argument": "London is no worse than Paris, or Paris than Tokyo.\"",
+                "relevance": "2"
+            },
+            {
+                "argument": "Paris is a very nice city, better than London.",
+                "relevance": 2
+            },
+            {
+                "argument": "Paris is inferior to London in every way.",
+                "relevance": 2
+            },
+            {
+                "argument": "Paris, with its wide streets, is already a better city for cyclists than London.",
+                "relevance": 3
+            },
+            {
+                "argument": "2012 London: faster than realtime2011 Paris: SOLOMO social local mobile2010 Paris: Platforms2009 Paris: the realtime web (yep, before faster than realtime!)",
+                "relevance": 3
+            },
+            {
+                "argument": "City Hall is very keen on showing their clean air credentials, but Clean Air in London say that London's air pollution for nitrogen dioxide was worse than that for Paris twice during recent smog.",
+                "relevance": 2
+            },
+            {
+                "argument": "It is a combination of both: it is certainly true that London is unique, and a better place to put plush apartments or office buildings than Siberia, Kansas City, or even Paris.",
+                "relevance": 2
+            },
+            {
+                "argument": "It seemed implausible that Paris, a city which is still trying to build up a culture of utility cycling (as opposed to cycle sport), should be so much safer than London.",
+                "relevance": 3
+            },
+            {
+                "argument": "Known as the Paris of the Middle-East, Beirut lays its claim to be a city safer than even New York and London.",
+                "relevance": "1"
+            },
+            {
+                "argument": "That post focused, rather positively, on the aspects of the city that I found to be slightly better than London.",
+                "relevance": 1
+            },
+            {
+                "argument": "The Paris Metro is the absolute best way to get around this amazing city and I believe it is even easier to use than the London Underground.",
+                "relevance": 3
+            },
+            {
+                "argument": "The French have conceded London is a superior city to Paris, an astonishing new tourism survey reveals today.",
+                "relevance": 2
+            },
+            {
+                "argument": "The city features on precisely none of the world's best cycling cities lists, despite being far less congested than London, flatter than Amsterdam, smaller and easier to navigate than Paris, and with lower petty theft rates than pretty much anywhere on the planet.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Their job is to know their city better than an English cabbie knows London.",
+                "relevance": "0"
+            },
+            {
+                "argument": "They enjoyed London, finding it superior to Paris.",
+                "relevance": 3
+            },
+            {
+                "argument": "This great city [Paris] appears to be in many respects the most ineligible and inconvenient for the residence of a person of small fortune of any that I have seen, and vastly inferior to London.",
+                "relevance": 3
+            },
+            {
+                "argument": "paris is a rad city to bike around heaps safer than london.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "MAC",
+        "obj2": "PC",
+        "arguments": [
+            {
+                "argument": "2) Having a cool Mac doesn't make you a better person, so stop thinking that you are superior/better/smarter than a PC user.",
+                "relevance": 2
+            },
+            {
+                "argument": "And for my basic needs, mac is easier to use and faster than a PC.",
+                "relevance": 3
+            },
+            {
+                "argument": "But there are PC laptops that are lighter, cooler, quieter (fanless 1.1ghz Pentium-M) and have longer battery lives than any Mac 'Book.",
+                "relevance": 3
+            },
+            {
+                "argument": "First of all, even with less RAM, the Mac was faster and performed much better than a tech spec superior PC.",
+                "relevance": 3
+            },
+            {
+                "argument": "Generally, the Mac version of MySQL Workbench seems significantly easier to work with and smoother than the PC version.",
+                "relevance": 3
+            },
+            {
+                "argument": "However, (and this is the part that may be out of date), they were each generally faster and better supported on Windows than on the Mac.",
+                "relevance": 3
+            },
+            {
+                "argument": "I believe for the basic computer user a mac would probably easier and safer to use than a PC.",
+                "relevance": 3
+            },
+            {
+                "argument": "I haven't regretted switching since the MAC is faster and easier to deal with than my old PC laptop .",
+                "relevance": 3
+            },
+            {
+                "argument": "I notice that my Firefox works better and faster on Mac than Windows.",
+                "relevance": 3
+            },
+            {
+                "argument": "I've been using MacBook Pros because Windows runs faster and looks better on a Mac than on Dells and HPs.",
+                "relevance": 3
+            },
+            {
+                "argument": "In my experience the Mac simply looked better, ran smoother, and was much quieter than my PC.",
+                "relevance": 3
+            },
+            {
+                "argument": "It is faster, better looking, and $2000 cheaper than the Power Mac Dual 1.25 GHz.",
+                "relevance": 1
+            },
+            {
+                "argument": "Man, past games he used the Mac for everything because it was easier and nicer than the PC.",
+                "relevance": 3
+            },
+            {
+                "argument": "My cheaper PC runs WoW, honestly one of the easier games to run, MUCH better than my Mac does.",
+                "relevance": 3
+            },
+            {
+                "argument": "Now, not only is PC slower and harder to work with than Mac, but he also hates your reproductive organs.",
+                "relevance": 3
+            },
+            {
+                "argument": "One that is almost 10x faster than my six year old Lenovo and yet the environment where I spent 95% of my time (Outlook) performed BETTER and FASTER there than it does on my Mac.",
+                "relevance": 1
+            },
+            {
+                "argument": "The PC has more, faster processors, more RAM, more hard drive and a better video card than the Mac.",
+                "relevance": 3
+            },
+            {
+                "argument": "The current PC i'm on i've built myself, it has better and faster hardware than any Mac for sale, literally every single component is faster and of higher quality.",
+                "relevance": 3
+            },
+            {
+                "argument": "The phrase \"Mac/Linux users are smarter/more creative/better than PC users\" serves no purpose other than to get people riled up.",
+                "relevance": 2
+            },
+            {
+                "argument": "Using a Mac isn't any friendlier or easier than using a PC, it's all up to the person.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "NetBeans",
+        "obj2": "Eclipse",
+        "arguments": [
+            {
+                "argument": "Eclipse PDT in version 3.6 is mooore quicker then Netbeans!",
+                "relevance": 2
+            },
+            {
+                "argument": "Eclipse also has a more mature and better designed plug-in architecture, which makes it faster and easier for BEA to switch to Eclipse than to Netbeans.",
+                "relevance": 3
+            },
+            {
+                "argument": "NetBeans for Python is my current favorite (lighter and so much easier to install than Eclipse I found).",
+                "relevance": 2
+            },
+            {
+                "argument": "At that time, we chose Eclipse because it was faster and it looked better than NetBeans.",
+                "relevance": 3
+            },
+            {
+                "argument": "Hi You guys have done a great job Netbeans is much faster and it always had better features than Eclipse.",
+                "relevance": 3
+            },
+            {
+                "argument": "I have been using Netbeans for years - and it's the best IDE for Java, Java EE and also better than Eclipse for CSS, HTML and JavaScript.",
+                "relevance": 2
+            },
+            {
+                "argument": "I have the \"Netbeans RCP\" book at home, I built some examples with it, and it basically is all just a bit easier and nicer to use than Eclipse RCP.",
+                "relevance": 3
+            },
+            {
+                "argument": "I've always heard people saying that eclipse editor is superior to netbeans.",
+                "relevance": 2
+            },
+            {
+                "argument": "I've heard Netbeans is now slightly superior to Eclipse.",
+                "relevance": 2
+            },
+            {
+                "argument": "No there isnt and I am hoping that changes soon because honestly Netbeans is a lot easier and simpler to use than Eclipse is.",
+                "relevance": 3
+            },
+            {
+                "argument": "No, Netbeans doesn't support Facelets either but it seems to have better server (start/restart/deploy) support than MyEclipse, better UML support and it seems faster than Eclipse and definitely lower mem footprint.",
+                "relevance": 3
+            },
+            {
+                "argument": "Regarding NetBeans, Milinkovich said Sun does a good job of marketing the things NetBeans does better than Eclipse, such as Java profiling and GUI building with the Matisse technology.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Thankfully there's Netbeans which in many if not all ways is superior to Eclipse.",
+                "relevance": 2
+            },
+            {
+                "argument": "There are some features I miss from Eclipse (better code completion, auto serial id generator, better missing import handling, quicker project openning, etc.) but overall I feel more comfortable using Netbeans with ExtJS projects than Eclipse.",
+                "relevance": "3"
+            },
+            {
+                "argument": "This means NetBeans looks and feels better on OS X than Eclipse.",
+                "relevance": 2
+            },
+            {
+                "argument": "To me, Eclipse is better than NetBeans, but, IDEA is better than both of Eclipse and NetBeans.",
+                "relevance": 2
+            },
+            {
+                "argument": "UI Response : What ever may be the reason, Eclipse is definitely faster and it has better response times than NetBeans.",
+                "relevance": 3
+            },
+            {
+                "argument": "While still requiring a Java runtime, PhpStorm feels much faster than eclipse or even the lighter weight Netbeans IDE.",
+                "relevance": "2"
+            },
+            {
+                "argument": "keep it up eclipse team... i hope eclipse continues running faster than netbeans... netbeans is really heavy .",
+                "relevance": "3"
+            }
+        ]
+    },
+    {
+        "obj1": "Nixon",
+        "obj2": "Reagan",
+        "arguments": [
+            {
+                "argument": "Later, when Reagan came to power, I kept thinking, my God, he's worse than Nixon.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "OpenGL",
+        "obj2": "Direct3D",
+        "arguments": [
+            {
+                "argument": "Direct3D is pushing the envelope for hardware features, which means a Direct3D app can run faster or look better than an OpenGL app on equivalent hardware.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Direct3D used to have much better support than OpenGL back in the day, so it was much easier to find good Direct3D drivers than good OpenGL drivers.",
+                "relevance": "3"
+            },
+            {
+                "argument": "OpenGL is better than Direct3D.",
+                "relevance": 2
+            },
+            {
+                "argument": "As for why OpenGL is faster than DirectX/Direct3D, the simple answer is that OpenGL seems to have a smoother, more efficient pipeline.",
+                "relevance": 3
+            },
+            {
+                "argument": "As to why OpenGL is faster than DirectX/Direct3D, the simple answer is that OpenGL seems to have a smoother, more efficient pipeline.",
+                "relevance": 3
+            },
+            {
+                "argument": "Clearly today OpenGL is superior to direct3D.",
+                "relevance": 3
+            },
+            {
+                "argument": "Direct3d is way worse than opengl though.",
+                "relevance": "2"
+            },
+            {
+                "argument": "He always claims on the front pages that Direct3D is superior to OpenGL.",
+                "relevance": 2
+            },
+            {
+                "argument": "I only used OpenGL in the beginning, where I was told OpenGL was better, faster and easier all together than Direct3D.",
+                "relevance": 2
+            },
+            {
+                "argument": "I say the worse and the slowest OpenGL code of my life written by the the best programmer I met.",
+                "relevance": 1
+            },
+            {
+                "argument": "I'm not familiar with any argument stating that Direct3D is superior to OpenGL.",
+                "relevance": 2
+            },
+            {
+                "argument": "In my experience, currently (2008) OpenGL driver quality on Windows is much worse than Direct3D driver quality.",
+                "relevance": 3
+            },
+            {
+                "argument": "In short, D3D has evolved faster and now provides a superior API to OpenGL.",
+                "relevance": "3"
+            },
+            {
+                "argument": "In the early days OpenGL was better and faster than Direct3D but now there is little difference.",
+                "relevance": 3
+            },
+            {
+                "argument": "It's much easier to learn than plain OpenGL or, even worse, Direct3D.",
+                "relevance": 2
+            },
+            {
+                "argument": "Just because OpenGL is changing at a slower rate than Direct3D, doesn't make it better.",
+                "relevance": "2"
+            },
+            {
+                "argument": "Microsoft was running a massive marketing campaign for Direct3D, and soon everyone \"just knew\" that it was faster and better than OpenGL.",
+                "relevance": 3
+            },
+            {
+                "argument": "The Direct3D system is a technically superior piece of technology, and support for working with it is still better than OpenGL whether you're a hobbyist or a pro.",
+                "relevance": 3
+            },
+            {
+                "argument": "Valve: OpenGL is Faster Than Direct3D .",
+                "relevance": 3
+            },
+            {
+                "argument": "performance on OpenGL will be superior to that of Direct3D\".",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "PHP",
+        "obj2": "Java",
+        "arguments": [
+            {
+                "argument": "The point there is not that I could say that \"C++ is faster than Java\" because my program returned instantly while the Java version ran for minutes (and hoping nobody noticed my program took a half hour to build.)",
+                "relevance": 1
+            },
+            {
+                "argument": "The point there is not that I could say that \"C++ is faster than Java\" because my program returned instantly while the Java version ran for minutes (and hoping nobody noticed my program took a half hour to build.)",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "obj1": "PHP",
+        "obj2": "Python",
+        "arguments": [
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "\"PHP is easier to pick up than Perl/Python/Ruby/etc.\" .",
+                "relevance": 2
+            },
+            {
+                "argument": "PHP with MMCache accelerator is about 6x faster than teh fastest Python!",
+                "relevance": 3
+            },
+            {
+                "argument": "Python is \"faster\" than PHP and so Django might be faster (I don't have numbers), but the last benchmarks I saw for Ruby showed it slightly slower than PHP.",
+                "relevance": 3
+            },
+            {
+                "argument": "- Faster then PHP.",
+                "relevance": 1
+            },
+            {
+                "argument": "However, python looks nicer and in many ways is actually much simpler and for many tasks much easier than php.",
+                "relevance": 2
+            },
+            {
+                "argument": "I enjoy using pylons and I would still use it if it was slower than php.",
+                "relevance": 2
+            },
+            {
+                "argument": "I know that serving a python base webpage via cgi is slower than php because of its long start up every time.",
+                "relevance": 3
+            },
+            {
+                "argument": "I like PHP as a language better than Python, so I thought I would check into frameworks to make my programming life a little easier.",
+                "relevance": 2
+            },
+            {
+                "argument": "I'd like a good PHP and Perl version as well as a better Python version (the python version isn't producing acurate output and is WAY slower than is reasonable).",
+                "relevance": 2
+            },
+            {
+                "argument": "I'm not sure the exact reason for python to be faster than PHP, but I would bet its because of Google's influence with Python.",
+                "relevance": 2
+            },
+            {
+                "argument": "In various benchmarks, its slower than Ruby and PHP.",
+                "relevance": 1
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "No, Python is way better and easier than php.",
+                "relevance": 2
+            },
+            {
+                "argument": "Poor PHP code is probably slower than high quality python code but good PHP may also perform better than poor Python.",
+                "relevance": 2
+            },
+            {
+                "argument": "The claim \"PHP is faster than Python\" was made.",
+                "relevance": 2
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "Well, this shows that PHP runs faster than Python but here is a catch.",
+                "relevance": 2
+            },
+            {
+                "argument": "discounting those differences, I found that python was orders of magnitude easier, briefer to code, and got the job done faster than curl working concurrently (on windows/apache2, mind you) because curl and php has weird issues, even when running php as fastcgi .",
+                "relevance": 3
+            },
+            {
+                "argument": "php is optimized for web programming, so it might be faster than python.",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "\"PHP is easier to pick up than Perl/Python/Ruby/etc.\" .",
+                "relevance": 2
+            },
+            {
+                "argument": "php is optimized for web programming, so it might be faster than python.",
+                "relevance": 3
+            },
+            {
+                "argument": "However, python looks nicer and in many ways is actually much simpler and for many tasks much easier than php.",
+                "relevance": 2
+            },
+            {
+                "argument": "I enjoy using pylons and I would still use it if it was slower than php.",
+                "relevance": 2
+            },
+            {
+                "argument": "I know that serving a python base webpage via cgi is slower than php because of its long start up every time.",
+                "relevance": 3
+            },
+            {
+                "argument": "I like PHP as a language better than Python, so I thought I would check into frameworks to make my programming life a little easier.",
+                "relevance": 2
+            },
+            {
+                "argument": "I'd like a good PHP and Perl version as well as a better Python version (the python version isn't producing acurate output and is WAY slower than is reasonable).",
+                "relevance": 2
+            },
+            {
+                "argument": "I'm not sure the exact reason for python to be faster than PHP, but I would bet its because of Google's influence with Python.",
+                "relevance": 2
+            },
+            {
+                "argument": "In various benchmarks, its slower than Ruby and PHP.",
+                "relevance": 1
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "No, Python is way better and easier than php.",
+                "relevance": 2
+            },
+            {
+                "argument": "PHP with MMCache accelerator is about 6x faster than teh fastest Python!",
+                "relevance": 3
+            },
+            {
+                "argument": "Poor PHP code is probably slower than high quality python code but good PHP may also perform better than poor Python.",
+                "relevance": 2
+            },
+            {
+                "argument": "The claim \"PHP is faster than Python\" was made.",
+                "relevance": 2
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "Well, this shows that PHP runs faster than Python but here is a catch.",
+                "relevance": 2
+            },
+            {
+                "argument": "discounting those differences, I found that python was orders of magnitude easier, briefer to code, and got the job done faster than curl working concurrently (on windows/apache2, mind you) because curl and php has weird issues, even when running php as fastcgi .",
+                "relevance": 3
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "Java/ASP/Ruby/Python/Perl/C is better, and faster than PHP .",
+                "relevance": 2
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            },
+            {
+                "argument": "The results from the poll showed unanimously that the impression that Java/ASP/Ruby/Python/Perl/C are better and faster than PHP topped the charts.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "Pepsi",
+        "obj2": "Coke",
+        "arguments": [
+            {
+                "argument": "Coke Better than Pepsi .",
+                "relevance": 2
+            },
+            {
+                "argument": "Coke is better than Pepsi .",
+                "relevance": 2
+            },
+            {
+                "argument": "Coke is better than Pepsi.",
+                "relevance": 2
+            },
+            {
+                "argument": "Coke is far superior to Pepsi!",
+                "relevance": 2
+            },
+            {
+                "argument": "Coke is obviously superior to Pepsi.",
+                "relevance": 2
+            },
+            {
+                "argument": "Coke isn't better than Pepsi, and Pepsi isn't better than Coke.",
+                "relevance": 2
+            },
+            {
+                "argument": "Pepsi is better than Coke.",
+                "relevance": 2
+            },
+            {
+                "argument": "Pepsi really is better than Coke .",
+                "relevance": 2
+            },
+            {
+                "argument": "Pepsi taste better than Coke.",
+                "relevance": 3
+            },
+            {
+                "argument": "Pepsi tastes better than Coke .",
+                "relevance": 3
+            },
+            {
+                "argument": "Pepsi tastes better than Coke.",
+                "relevance": 3
+            },
+            {
+                "argument": "- Coke is better than Pepsi.",
+                "relevance": 2
+            },
+            {
+                "argument": "2) Coke goes flat faster than Pepsi.",
+                "relevance": 3
+            },
+            {
+                "argument": "Diet Coke is far superior to Diet Pepsi.",
+                "relevance": 2
+            },
+            {
+                "argument": "HFCS and all that jazz, but Coke products are superior to Pepsi.",
+                "relevance": 2
+            },
+            {
+                "argument": "I think Pepsi tastes better than Coke but because of brand loyalty I would pick Coca-Cola (TM) out of the two.",
+                "relevance": 3
+            },
+            {
+                "argument": "I thought that Vanilla Pepsi was smoother than Vanilla Coke.",
+                "relevance": 3
+            },
+            {
+                "argument": "pepsi is better than coke!",
+                "relevance": 2
+            },
+            {
+                "argument": "pepsi is better then coke.",
+                "relevance": 2
+            },
+            {
+                "argument": "the far superior to pepsi.",
+                "relevance": 0
+            }
+        ]
+    },
+    {
+        "obj1": "Python",
+        "obj2": "R",
+        "arguments": [
+            {
+                "argument": "However, python looks nicer and in many ways is actually much simpler and for many tasks much easier than php.",
+                "relevance": 1
+            },
+            {
+                "argument": "Python can do many things better than R.",
+                "relevance": 2
+            },
+            {
+                "argument": "Python isn't too much harder to work with than R.",
+                "relevance": 2
+            },
+            {
+                "argument": "R could be better than Python for statistic.",
+                "relevance": 3
+            },
+            {
+                "argument": "R is much faster than python, but since I'm a newbie in Python I'm ... .",
+                "relevance": "2"
+            },
+            {
+                "argument": "R is much slower than compiled languages such as C or Python.",
+                "relevance": 3
+            },
+            {
+                "argument": "R training time was more than 3X faster than the Python training time.",
+                "relevance": 3
+            },
+            {
+                "argument": "- I often find text-processing tasks in which R is superior to Python.",
+                "relevance": "3"
+            },
+            {
+                "argument": "@terdon R is definitely slower than Python, though not dramatically.",
+                "relevance": 1
+            },
+            {
+                "argument": "All he's saying (literally) is that Ruby 1.8 was in the range of 5 times slower than Python 2.5 and Ruby 1.9 is in the range of 3 times faster than Python 2.5 when running this exact code .",
+                "relevance": "3"
+            },
+            {
+                "argument": "Better than Python: .",
+                "relevance": 1
+            },
+            {
+                "argument": "Culture is much friendlier to nominal subtyping than Python or Ruby, but it's not required.",
+                "relevance": 1
+            },
+            {
+                "argument": "I heard as well that Python is much faster for data intensive tasks than R, so have no idea what to learn better.",
+                "relevance": 2
+            },
+            {
+                "argument": "I'd assert that R is best at data analysis, and that its syntax is slighly better than Python for this purpose.",
+                "relevance": 3
+            },
+            {
+                "argument": "I'm not at all sure that R is slower than python.",
+                "relevance": "2"
+            },
+            {
+                "argument": "It's faster than Python at this code too!",
+                "relevance": 1
+            },
+            {
+                "argument": "Java and C are much faster than dynamic Python.",
+                "relevance": 0
+            },
+            {
+                "argument": "Not simple like Excel, but simpler than python.",
+                "relevance": 1
+            },
+            {
+                "argument": "Well I actually found it easier to install Erlang than Python.",
+                "relevance": 1
+            },
+            {
+                "argument": "contrary to what one poster above said, R should not be grouped with stata/sas, it is far superior and in many important ways better than python.",
+                "relevance": 2
+            },
+            {
+                "argument": "that's no easier than python for template designers!",
+                "relevance": 1
+            },
+            {
+                "argument": "However, python looks nicer and in many ways is actually much simpler and for many tasks much easier than php.",
+                "relevance": 1
+            }
+        ]
+    },
+    {
+        "obj1": "Train",
+        "obj2": "plane",
+        "arguments": [
+            {
+                "argument": "Train rides are far slower than plane flights.",
+                "relevance": 3
+            },
+            {
+                "argument": "An express trip on this train would be only slightly slower than taking a plane and considering airport delays etc., might even be faster.",
+                "relevance": 3
+            },
+            {
+                "argument": "But a train ride away is much nicer than a plane ride away.",
+                "relevance": 2
+            },
+            {
+                "argument": "But it was quicker than the train.",
+                "relevance": 1
+            },
+            {
+                "argument": "But now that certain high-speed train routes in the U.S. are quicker and easier than those same routes are via plane, those conventions may be beginning to change, albeit slowly.",
+                "relevance": 3
+            },
+            {
+                "argument": "From crime standpoint travelling by plane is safer than by train.",
+                "relevance": 3
+            },
+            {
+                "argument": "Hopping the train is quicker and cheaper than taking a plane.",
+                "relevance": 3
+            },
+            {
+                "argument": "I hope even a fast train gets built as a nonstop connection would be better than plane or bus- smoother more comfortable ride.",
+                "relevance": 3
+            },
+            {
+                "argument": "It may not be the best option for long distance and cross-country travel, but a train that travels 600 miles in 2.5 hours will be much faster, and better than taking a plane.",
+                "relevance": 3
+            },
+            {
+                "argument": "Kids: yet another reason train travel is superior to plane travel.",
+                "relevance": 2
+            },
+            {
+                "argument": "Once you think the train is inferior to plane in timing.",
+                "relevance": 3
+            },
+            {
+                "argument": "Plus the jet is far lighter than the train.",
+                "relevance": 2
+            },
+            {
+                "argument": "So, repeat after me, the train in Spain is better than the plane: faster, more economic and better for our environment.",
+                "relevance": 3
+            },
+            {
+                "argument": "Taking a plane would have been a lot easier and faster - and could have cost less than the 150 euros ($220) the train cost, had I booked early enough.",
+                "relevance": 3
+            },
+            {
+                "argument": "The plane does not take as long as/takes a shorter time than/ is quicker/faster than the train.",
+                "relevance": 3
+            },
+            {
+                "argument": "The plane was much quicker and less tiring than the train.\"",
+                "relevance": 3
+            },
+            {
+                "argument": "The notion that the plane might be quicker and easier than the train is now absurd, if you're travelling from Luton or the many airports like it.",
+                "relevance": 2
+            },
+            {
+                "argument": "The train, a 19th century invention, is superior to the plane, a technology of the 20th.",
+                "relevance": 3
+            },
+            {
+                "argument": "Travelling by plane is better because you can go anywhere faster than by train.",
+                "relevance": 3
+            },
+            {
+                "argument": "but either way, i fully agree that train travel is far far superior to plane travel.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "Xbox",
+        "obj2": "PlayStation",
+        "arguments": [
+            {
+                "argument": "PlayStation 3 may be faster on paper, but Xbox 360's easier to harness, says Huddy Microsoft's Xbox 360 will have better graphics performance than the PlayStation 3 despite the better on-paper specifications... .",
+                "relevance": 3
+            },
+            {
+                "argument": "Xbox Live is far superior to Playstation Network.",
+                "relevance": 2
+            },
+            {
+                "argument": "@the master Xbox was never superior to PlayStation!",
+                "relevance": 0
+            },
+            {
+                "argument": "Even though the Xbox 360 has an arguably much faster and easier to use operating environment than the PlayStation 3, it apparently uses significantly less memory than Sony's big black box.",
+                "relevance": 3
+            },
+            {
+                "argument": "Final Fantasy XIII Xbox 360 Graphics are Inferior to PlayStation 3 .",
+                "relevance": 3
+            },
+            {
+                "argument": "Gates is expected to show off a prototype of the Xbox gaming console, promised to be faster and better than Sony's competing PlayStation 2.",
+                "relevance": 3
+            },
+            {
+                "argument": "I bought a lot of shovelware when I first got my Xbox 360 and it all looked better, and ran smoother than the PlayStation 2 versions I was able to compare them to.",
+                "relevance": 3
+            },
+            {
+                "argument": "I've always felt Xbox then Xbox 360 were superior to Playstation or Nintendo.",
+                "relevance": 2
+            },
+            {
+                "argument": "It is easier for game developers to get results quicker using the Xbox tools then the PS3.",
+                "relevance": 3
+            },
+            {
+                "argument": "PS2 texture compression is inferior to Xbox and GameCube.",
+                "relevance": 3
+            },
+            {
+                "argument": "People who are using a PS3 for the first time can find what they are looking for a whole lot quicker and easier than on Xbox.",
+                "relevance": 3
+            },
+            {
+                "argument": "Playstation 4 GPU Superior To Xbox 720, NVIDIA Claims .",
+                "relevance": 3
+            },
+            {
+                "argument": "Playstation is make one of FAVORITE games, KILLZONE, it's flagship game and if that wasn't enough, I think the Playstation controller is WAAAAYYY cooler and ergonomic (feel better in the hand) than the xbox.",
+                "relevance": 3
+            },
+            {
+                "argument": "Similarly, the PS2 fared better in the marketplace than the technically superior Xbox and GameCube (which was primarily hampered by storage space issues like the N64 before it).",
+                "relevance": 3
+            },
+            {
+                "argument": "Superior hardware, better exclusives and better cloud gaming options means new PS4 will beat Xbox 720.",
+                "relevance": 3
+            },
+            {
+                "argument": "Superior to the 360 version in every way: Better loadtimes, better draw distances, better textures, better character models, and most importantly better A.I. Anyone who says any different, is lying for the sake of being loyal to their precious Xbox 2.",
+                "relevance": 1
+            },
+            {
+                "argument": "The Xbox is an Intel Pentium III processor-based console that Microsoft says is better for high-quality game development and offers superior graphics than the PlayStation 2.",
+                "relevance": 3
+            },
+            {
+                "argument": "The PS2 was an incredible leap and much better than the XBOX.",
+                "relevance": 2
+            },
+            {
+                "argument": "The PS3 is superior at the moment and the upcoming 08 and 09 releases for the PS3 are looking much better than those of the XBOX 360.",
+                "relevance": 3
+            },
+            {
+                "argument": "Though the content is very similar to that of the Xbox 360 version, the plus sides are that the game looks slightly better, the load times are significantly faster, and the controller feels more comfortable on the PLAYSTATION 3 than on the Xbox 360.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "apple",
+        "obj2": "ibm",
+        "arguments": [
+            {
+                "argument": "(\"Apple Macintosh\") which made its speed about 1.67 times faster then its competitor, IBM.",
+                "relevance": 2
+            },
+            {
+                "argument": "An Apple 2e was generally worse than an IBM XT or an IBM XT clone.",
+                "relevance": "2"
+            },
+            {
+                "argument": "And not only that IBM made them cooler and that is the reason apple could make 1U Xservers with them.",
+                "relevance": 2
+            },
+            {
+                "argument": "Apple almost died several times, even though its products were technically superior to those of the MS-IBM mold.",
+                "relevance": 1
+            },
+            {
+                "argument": "Apple has become big brother worse than ibm and microsoft.",
+                "relevance": "2"
+            },
+            {
+                "argument": "Apple is working hard to infiltrate data processing and information systems departments in companies, and to prove to those department managers that the Apple Lisa and Macintosh are easier, better, and more reliable than the IBM. ''",
+                "relevance": 3
+            },
+            {
+                "argument": "As someone said, nothing's worse than Apple fanbois.",
+                "relevance": 0
+            },
+            {
+                "argument": "Even better than Apple though, are the Icelandic cloud computing company GreenQloud .",
+                "relevance": 1
+            },
+            {
+                "argument": "I imagine Apple could pull a better OS2 than IBM.",
+                "relevance": 2
+            },
+            {
+                "argument": "IBM has G3 chips much faster than anything Apple is allowed to sell due to a licensing agreement between Apple, IBM, and Motorolla.",
+                "relevance": 3
+            },
+            {
+                "argument": "IBM is worse than Apple about controlling their machines.",
+                "relevance": "3"
+            },
+            {
+                "argument": "IBM seemed a lot more frightening in those days, but they were friendlier to developers than Apple is now.",
+                "relevance": 3
+            },
+            {
+                "argument": "In earlier years, the Apple Macintosh computer was widely regarded to be superior to the IBM compatible computers, and the Mac OS was considered much better than Windows.",
+                "relevance": 2
+            },
+            {
+                "argument": "It was always rumoured that IBM designed the first IBM Pc to be 10 times better than an Apple II - indeed it was 10x faster, 10x more memory but architecturally very similar.",
+                "relevance": 3
+            },
+            {
+                "argument": "MUNGER: IBM is easier to understand than Google or Apple.",
+                "relevance": "3"
+            },
+            {
+                "argument": "The Apple hardware was equivalent or superior to IBM-compatibles, but it couldn't match the price.",
+                "relevance": 2
+            },
+            {
+                "argument": "The IBM-PC was slower than the Apple II and, in effect, outdated at its introduction.",
+                "relevance": "3"
+            },
+            {
+                "argument": "The combination will create apps that can transform specific aspects of how businesses and employees work using iPhone and iPad, allowing companies to achieve new levels of efficiency, effectiveness and customer satisfaction -- faster and easier than ever before\", says Apple.",
+                "relevance": 3
+            },
+            {
+                "argument": "They understand IBM better but that does not mean Google and Apple will not do better than IBM.",
+                "relevance": "1"
+            },
+            {
+                "argument": "They were really so much smarter than Apple about offering Enterprise more choices, better security, better integration of IBM Cloud Services and so many ways to integrate IBM's Expertise in LINUX!",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "basketball",
+        "obj2": "football",
+        "arguments": [
+            {
+                "argument": "\"Football is the toughest sport,\" or \"wrestling is way harder than basketball,\" or \"underwater basket weaving is much easier than soccer.\"",
+                "relevance": 2
+            },
+            {
+                "argument": "As compared to football, it is easier to recover from being behind by many points in basketball due to the nature of the game.",
+                "relevance": 3
+            },
+            {
+                "argument": "Basketball is a much simpler game than football, albeit with a much more complicated UFR endeavour.",
+                "relevance": 2
+            },
+            {
+                "argument": "Basketball should find it far easier than football.",
+                "relevance": 2
+            },
+            {
+                "argument": "Basketball, baseball, fastpitch, soccer, track, and swim captains are also apparently inferior to the mighty football captain .",
+                "relevance": "3"
+            },
+            {
+                "argument": "Basketball, baseball, fastpitch, soccer, track, and swim captains are also apparently inferior to the mighty football captain.",
+                "relevance": 2
+            },
+            {
+                "argument": "Football is a harder sport so I like watching ot more than Basketball thought I do like both sports",
+                "relevance": 2
+            },
+            {
+                "argument": "Football, aside from being better than any other sport invented, is far easier to follow than basketball or baseball.",
+                "relevance": 3
+            },
+            {
+                "argument": "Harrison says that football is easier than basketball because it is slower.",
+                "relevance": 2
+            },
+            {
+                "argument": "Our new league could offer the same level of excellence in academics, baseball and football, and easier travel plus better basketball than C-USA.",
+                "relevance": 2
+            },
+            {
+                "argument": "PU ( better at football than IU; worse at basketball, no money being used to support athletics) .",
+                "relevance": 2
+            },
+            {
+                "argument": "Success in 1A football would have a far greater impact nationally than basketball (or virtually anything else) in developing the University's overall image. . ..",
+                "relevance": 3
+            },
+            {
+                "argument": "THAT Would Demonstrate once again that Basketball Players And Coaches are both smarter (think quicker and more continuously; No Long In-Game Breaks Necessary) and more Fan-Friendly than Baseball or Football coaches... .",
+                "relevance": 2
+            },
+            {
+                "argument": "The big ten is better at basketball than the acc and worse in football.",
+                "relevance": 0
+            },
+            {
+                "argument": "There are obvious reasons why talent evaluation from college basketball is superior to college football.",
+                "relevance": "1"
+            },
+            {
+                "argument": "To address the relative difficulty of major sports, I agree that basketball has better athletes than both soccer and football.",
+                "relevance": 3
+            },
+            {
+                "argument": "Utah State possessed better facilities, more community support and a vastly superior basketball program.",
+                "relevance": 1
+            },
+            {
+                "argument": "You can tell that my college basketball knowledge is far inferior to that of my football knowledge.",
+                "relevance": "0"
+            },
+            {
+                "argument": "baseball and football is harder than basketball...definitely.",
+                "relevance": "3"
+            },
+            {
+                "argument": "well except for basketball being easier than football statement.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "cats",
+        "obj2": "dogs",
+        "arguments": [
+            {
+                "argument": "1) Dogs are much smarter than cats.",
+                "relevance": 3
+            },
+            {
+                "argument": "Cats are better at being cats, dogs are better at being dogs.",
+                "relevance": 2
+            },
+            {
+                "argument": "Cats are better than dogs for many reasons.",
+                "relevance": 2
+            },
+            {
+                "argument": "Cats are smarter than dogs and easier to train.",
+                "relevance": 3
+            },
+            {
+                "argument": "Cats are smarter than dogs and have better hearing than dogs or humans!",
+                "relevance": 3
+            },
+            {
+                "argument": "Cats are smarter, faster, and physically more agile than dogs.",
+                "relevance": 3
+            },
+            {
+                "argument": "Cats are so much cooler than dogs!",
+                "relevance": 2
+            },
+            {
+                "argument": "Coming on the heels of the realization that dogs were actually smarter than and in greater control of subservient species than cats, the lens of concern shifted to the providers of our milk, cream and other dairy goods.",
+                "relevance": 3
+            },
+            {
+                "argument": "Dogs are better problem solvers and learn thing quicker than cats.",
+                "relevance": 3
+            },
+            {
+                "argument": "Dogs are infinitely smarter, infinitely more resourceful, infinitely more trainable, infinitely better in every measurable way than cats.",
+                "relevance": 3
+            },
+            {
+                "argument": "Dogs as pets is a better option because they are smarter than cats.",
+                "relevance": 3
+            },
+            {
+                "argument": "Dogs do some things better than cats, while cats do other things better than dogs.",
+                "relevance": 2
+            },
+            {
+                "argument": "Dogs smell worse than cats, especially when they are wet or haven't been bathed.",
+                "relevance": 3
+            },
+            {
+                "argument": "Herein lies just another example of why dogs are way better pets and cooler companions than cats could ever be.",
+                "relevance": 3
+            },
+            {
+                "argument": "Humans and cats have a similar range of hearing when it comes to low-pitched sounds, but cats have a much greater ability to hear very high notes-better, even, than dogs.",
+                "relevance": 3
+            },
+            {
+                "argument": "I like dogs worse than cats .",
+                "relevance": 2
+            },
+            {
+                "argument": "On the other hand, dogs are superior to cats in every way and if you don't agree, well then, good luck with your empty life without a soul.",
+                "relevance": 2
+            },
+            {
+                "argument": "So, dear cats, allow yourself a moment of self-congratulation as this video scientifically explains why cats are better than dogs.",
+                "relevance": 2
+            },
+            {
+                "argument": "Yet cats are always given worse press than dogs!",
+                "relevance": 3
+            },
+            {
+                "argument": "You'll never convince me that dogs are superior to cats in any way.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "cider",
+        "obj2": "juice",
+        "arguments": [
+            {
+                "argument": "\"The cans cool down faster than bottles, and the colder, the better, with a refreshing cider,\" Doughty says.",
+                "relevance": 1
+            },
+            {
+                "argument": "(By the way, white vinegar or lemon juice is better for oily hair than apple cider vinegar.",
+                "relevance": "2"
+            },
+            {
+                "argument": "And when the hunt is over, there is no better breakfast than a \"ham biscuit\", made with ham cooked in apple cider.",
+                "relevance": 1
+            },
+            {
+                "argument": "Apple cider vinegar will taste better then white, but lemon juice is the best tasting.",
+                "relevance": "3"
+            },
+            {
+                "argument": "He will provide juice that he believes can make superior hard cider - and he's leaving the cider making to them, the experts.",
+                "relevance": 0
+            },
+            {
+                "argument": "I concur that Mott's juice is superior when making cider.",
+                "relevance": 3
+            },
+            {
+                "argument": "I have found that the juice batches do clear quicker than the ones made from cider and are ready to drink sooner.",
+                "relevance": 3
+            },
+            {
+                "argument": "I like apple cider better than apple juice - yum.",
+                "relevance": 2
+            },
+            {
+                "argument": "I think cider tastes much better than juice and would be my choice for making hard cider or cyser.",
+                "relevance": 3
+            },
+            {
+                "argument": "If you prefer apple juice better than eating the whole apple, go with organic cider that is unfiltered.",
+                "relevance": "2"
+            },
+            {
+                "argument": "In other words hard cider was safer to drink than apple juice, and milk was more dangerous than beer.",
+                "relevance": 3
+            },
+            {
+                "argument": "Juice is filtered much better than cider and has asorbic acid added.",
+                "relevance": 2
+            },
+            {
+                "argument": "Now... It won't make it into Cider apple cider - but it will make it a huge step better than what you get from grocery store juice.",
+                "relevance": "1"
+            },
+            {
+                "argument": "Painful though it is for a disciple of Bacchus to say so, sweet, natural, untreated Virginian cider is incomparably superior to its alcoholic cousin, and better by far than the pasteurised, clarified \"apple juice\" that you can find on the supermarket shelf.",
+                "relevance": 2
+            },
+            {
+                "argument": "Reduce the apple cider: Place the apple cider (spiced or not spiced, but cider is better than apple juice) in a medium saucepan over high heat.",
+                "relevance": 2
+            },
+            {
+                "argument": "Showering was experimenting with fermenting fruits and found that pear juice (perry) worked better than apples (cider).",
+                "relevance": 3
+            },
+            {
+                "argument": "The apple juice turned out better then the cider by a long shot, but that was to my taste.",
+                "relevance": 2
+            },
+            {
+                "argument": "This authentic cider flavor, while being an acquired taste, is superior to the sweeter flavor of cider made from apple juice, which is very common in America.",
+                "relevance": 3
+            },
+            {
+                "argument": "Too much poutine tends to bind me up too, but I find unpasteurized apple cider works much faster than apple juice.",
+                "relevance": 3
+            },
+            {
+                "argument": "We've been told that our cider pressing fabric cleans easier and strains juice faster than other commercial-grade cider pressing fabrics on the market.",
+                "relevance": "1"
+            }
+        ]
+    },
+    {
+        "obj1": "ds",
+        "obj2": "psp",
+        "arguments": [
+            {
+                "argument": "ds is better dan psp (12:59pm EST Tue Apr 26 2005) psp is fast but ds is faster it has better grafics than psp and psp is very slow and takes time to load.",
+                "relevance": 3
+            },
+            {
+                "argument": "DS is by far easier to emulate than PSP.",
+                "relevance": 3
+            },
+            {
+                "argument": "DS is so much better than PSP.",
+                "relevance": 3
+            },
+            {
+                "argument": "DS is waaaaaaaaayyyy better than psp.",
+                "relevance": 2
+            },
+            {
+                "argument": "It's not a question of the DS being superior to the PSP, but the games.",
+                "relevance": 0
+            },
+            {
+                "argument": "Much better than anything DS has to offer.",
+                "relevance": "1"
+            },
+            {
+                "argument": "Nintendo DS games are all, all, very, very graphically inferior to PSP games.",
+                "relevance": 3
+            },
+            {
+                "argument": "PSP isn't better than the Nintedo DS.",
+                "relevance": 2
+            },
+            {
+                "argument": "Probably bigger than the visual difference between PS2 and Xbox games.As I said before,PSP's games will cost less and be easier to develop for.So if I'm right then this means PSP will have more games coming out faster than DS.",
+                "relevance": 3
+            },
+            {
+                "argument": "So that's a short list of why the DS is superior to the PSP.",
+                "relevance": 2
+            },
+            {
+                "argument": "The PSP CPU is light-years faster than the DS, but the DS answers back with better games and an easier to learn experience.",
+                "relevance": 3
+            },
+            {
+                "argument": "The sound output is much inferior to Nintendo DS and GBA SP, which is a bit odd.",
+                "relevance": 1
+            },
+            {
+                "argument": "This dual-screened PSP looks worse than either the DS Lite or PSP.",
+                "relevance": "2"
+            },
+            {
+                "argument": "What exactly make the ds better than than psp.",
+                "relevance": 2
+            }
+        ]
+    },
+    {
+        "obj1": "gas",
+        "obj2": "charcoal",
+        "arguments": [
+            {
+                "argument": "A charcoal chimney is an easy way to start your grill and much safer than lighter fluid if you don't have a gas grill.",
+                "relevance": 1
+            },
+            {
+                "argument": "A gas flame is faster than the charcoal briquettes.",
+                "relevance": 3
+            },
+            {
+                "argument": "Charcoal enthusiasts swear by the superior flavor of food coming off the charcoal grill (some say meat tastes better on charcoal, whereas non-meat items do just fine on gas), and many people do agree.",
+                "relevance": 3
+            },
+            {
+                "argument": "Charcoal is better than gas IMO.",
+                "relevance": 2
+            },
+            {
+                "argument": "Gas and electric grills in this guide are easier to clean and faster to light than charcoal grills, but they do tend to cost more.",
+                "relevance": 3
+            },
+            {
+                "argument": "Gas grills heat up quicker and sustain their heat in cold weather better than a charcoal grill.",
+                "relevance": 3
+            },
+            {
+                "argument": "Gas is better than charcoal.",
+                "relevance": 2
+            },
+            {
+                "argument": "Gas is much easier and quicker than charcoal charcoal has a better flavor to me gas grill is like cooking on the stove Gas is grilling, charcoal is bar-b-qing.",
+                "relevance": 3
+            },
+            {
+                "argument": "Grilling purists may look down their noses at gas grills, but no one can argue with the fact that grilling over gas is quicker and easier than using charcoal.",
+                "relevance": 3
+            },
+            {
+                "argument": "Hard, aromatic charcoal from Wakayama Prefecture produces the best results, better than cheaper charcoals and far superior to gas or electric grills.",
+                "relevance": 2
+            },
+            {
+                "argument": "I think this discussion should revert to whether charcoal is superior to gas for grilling.",
+                "relevance": 0
+            },
+            {
+                "argument": "I use a charcoal grill as I find the taste superior to my gas grill.",
+                "relevance": 3
+            },
+            {
+                "argument": "I will state it's easier than a gas grill and tastes better than charcoal.",
+                "relevance": 1
+            },
+            {
+                "argument": "I would much rather use charcoal for my searing; the high, dry heat of charcoal will brown the meat much better than gas.",
+                "relevance": 3
+            },
+            {
+                "argument": "Like gas, it's quicker and cleaner than charcoal.",
+                "relevance": 2
+            },
+            {
+                "argument": "Mark Pastore: Gas is neater, cleaner, and tastes better, with no lighter fluid or charcoal taste.",
+                "relevance": 1
+            },
+            {
+                "argument": "Now, I prefer charcoal for better flavor and really think it is easier than gas...but more time consuming.",
+                "relevance": 3
+            },
+            {
+                "argument": "Sorry, Gas Grills Are Better than Charcoal .",
+                "relevance": 2
+            },
+            {
+                "argument": "This does not mean that gas grills are more superior to charcoal grills.",
+                "relevance": 2
+            },
+            {
+                "argument": "Wood is good - charcoal tastes better than gas, and wood tastes better than charcoal.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "hybrid",
+        "obj2": "diesel",
+        "arguments": [
+            {
+                "argument": "A Diesel is better for the environment than any Hybrid but it's a shame the clean Diesel SuV are so costly or would have preferred to buy.",
+                "relevance": 1
+            },
+            {
+                "argument": "Better Energy Produced Another notable positive is the fact these vehicles are able to produce a lot of energy, which also helps to make them superior to any other gasoline hybrid vehicle or standard vehicle.",
+                "relevance": 1
+            },
+            {
+                "argument": "Diesel engines are superior to hybrid systems.",
+                "relevance": 2
+            },
+            {
+                "argument": "Diesel still superior to hybrid .",
+                "relevance": 2
+            },
+            {
+                "argument": "Gas hybrid is a much easier transition than diesel.",
+                "relevance": 3
+            },
+            {
+                "argument": "Having ridden the hybrid buses on a very rare occassion on the 12/94 routes, the buses accelerate much smoother and brake much smoother than a straight-diesel, and thus offer a much better ride than an identical, non-hybrid bus.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Hybrid technology is superior to diesel fuel imo.",
+                "relevance": 2
+            },
+            {
+                "argument": "I am personally convinced that new diesel technology is much smarter and much better for all concerned than electric cars and hybrid electric like the Prius.",
+                "relevance": 2
+            },
+            {
+                "argument": "In fact on long commutes, diesel engines get better mileage, a lot better mileage, than hybrid engines.",
+                "relevance": 3
+            },
+            {
+                "argument": "In terms of fuel consumption and other environmental performance, hybrid buses are superior to ordinary diesel buses.",
+                "relevance": 3
+            },
+            {
+                "argument": "Keep in mind, though, that diesel is currently a little bit better than hybrid technology in terms of efficiency, but it lags far behind in terms of emissions...the hybrid is far, far better for the environment.",
+                "relevance": 3
+            },
+            {
+                "argument": "Let's go ahead and pretend the hybrid factor is still optimal for vehicles (or better yet, let's pretend the far superior clean diesel engine doesn't exist) and talk about the little Toyota's image.",
+                "relevance": 3
+            },
+            {
+                "argument": "Lexus continues to believe that hybrid technology is superior to diesel power for its cars.",
+                "relevance": 3
+            },
+            {
+                "argument": "On average, hybrid buses attain 25% greater fuel mileage and achieve better acceleration than diesel buses.",
+                "relevance": 2
+            },
+            {
+                "argument": "TARC driver Sharon Oliver said the hybrid-electrics offer a smoother ride than diesel buses.",
+                "relevance": 3
+            },
+            {
+                "argument": "The diesel is slower than the hybrid but more responsive.",
+                "relevance": 3
+            },
+            {
+                "argument": "The Hybrid is much quicker than the diesel.",
+                "relevance": 2
+            },
+            {
+                "argument": "This is not to say hybrid cars are grossly inferior to diesel powered cars.",
+                "relevance": 3
+            },
+            {
+                "argument": "Unlike inferior leathers that are dyed with chemicals, diesel, or pigeon stool (yes, in some countries they actually use pigeon stool) - vegetable dye brings out the natural leather smell over time and is better for the environment than hybrid chemical dyes.",
+                "relevance": 0
+            },
+            {
+                "argument": "Unlike inferior leathers that are dyed with chemicals, or diesel - vegetable dyes bring out the natural leather smell over time and are better for the Environment than hybrid chemical dyes.",
+                "relevance": "3"
+            }
+        ]
+    },
+    {
+        "obj1": "ipod",
+        "obj2": "phone",
+        "arguments": [
+            {
+                "argument": "All things being equal, the iPad/iPod touch will always be slightly faster due to the lack of phone process running.",
+                "relevance": 1
+            },
+            {
+                "argument": "All you do is hold down on a word and press the copy button, its a lot easier and faster than on my ipod touch and it exists anywhere you have text.",
+                "relevance": 1
+            },
+            {
+                "argument": "Also, iPod Touches historically tended to feel faster than an equivalent iPhone because it doesn't have to deal with the phone aspects of iOS.",
+                "relevance": 3
+            },
+            {
+                "argument": "Although it may cause more use of future phone apps in the car, the car can offer a better display device and also uses can use the superior UI of the phone than the car makers crippled version (iPod).",
+                "relevance": 3
+            },
+            {
+                "argument": "I have used many apple products and never had any problems until now, and I own one of their ipod touches and the ipod works 100% better and even faster than the phone does.",
+                "relevance": 3
+            },
+            {
+                "argument": "I thought the Zune was superior to the iPod the moment I saw it.",
+                "relevance": 1
+            },
+            {
+                "argument": "I'd also like a phone with a reduced set of features that's smaller, lighter, and simpler than the iPhone, but I can't find one that's as easy to use when it comes to the email and iPod features.",
+                "relevance": 3
+            },
+            {
+                "argument": "If you talking about better functional devices, there have been few superior to ipod devices.",
+                "relevance": 1
+            },
+            {
+                "argument": "It's now quicker to walk somewhere than look it up in Maps, and the iPod app and SMS app take forever to open up.",
+                "relevance": 0
+            },
+            {
+                "argument": "May I also add that the Zune media player is superior to the iphones (and i'm an ipod guy).",
+                "relevance": 1
+            },
+            {
+                "argument": "Much better than an iPod/iPhone.",
+                "relevance": 0
+            },
+            {
+                "argument": "My phone also got the official Jellybean update on it last week and it is smoother and easier to use than my daughter's iPod.",
+                "relevance": 3
+            },
+            {
+                "argument": "My Android phone is easier to use for music and, with teh poweramp app, sounds better through headphones than my iPOD classic.",
+                "relevance": 2
+            },
+            {
+                "argument": "My best friend is using my old fourth gen iPod that I got for Christmas three years ago and he says it has better battery life than his cell phone.",
+                "relevance": 2
+            },
+            {
+                "argument": "My iPad2 and iPhone4 (my default iPod now) now run much, much faster than they had been running and my iPhone5 (my phone) is even better than it was before.",
+                "relevance": 0
+            },
+            {
+                "argument": "My iPod is better than my phone's music player.",
+                "relevance": 3
+            },
+            {
+                "argument": "My iPod is easier to deal with than this phone.",
+                "relevance": 2
+            },
+            {
+                "argument": "My iPod may be old, but it is an easier and better MP3 player than any mobile phone I've seen.",
+                "relevance": "3"
+            },
+            {
+                "argument": "The Zune was not better than the iPod at all, and still isn't (it came much later on and was widely reviewed to be worse than the iPod) .",
+                "relevance": 2
+            },
+            {
+                "argument": "This phone is as smooth if not smoother than an Iphone/Ipod touch experience.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "kids",
+        "obj2": "adults",
+        "arguments": [
+            {
+                "argument": "\" Kids heal so much faster and better than adults do,\" said Bruggeman.",
+                "relevance": 2
+            },
+            {
+                "argument": "Adults are much smarter than kids .",
+                "relevance": 2
+            },
+            {
+                "argument": "Adults are supposed to have better judgment than kids -- not worse.",
+                "relevance": 3
+            },
+            {
+                "argument": "As for the kids, we all know that they make friends faster and easier than adults for the most part but putting them together with other kids in their neighborhood makes it happen much faster!",
+                "relevance": 3
+            },
+            {
+                "argument": "For centuries adults have thought they were smarter than kids, and perhaps were, but now the kids are smarter than the adults.",
+                "relevance": 3
+            },
+            {
+                "argument": "I think kids sometimes have a better grasp of a simpler God than we do as adults,'' Florez said. ''",
+                "relevance": 2
+            },
+            {
+                "argument": "I've heard that some kids like paper books better (and that's fine) and some are embracing eReaders faster than adults are.",
+                "relevance": 2
+            },
+            {
+                "argument": "Indeed it may turn out that for some kids especially smarter more mature ones it's better if much socialization is done with adults rather than children.",
+                "relevance": 0
+            },
+            {
+                "argument": "Kids didn't learn any faster or easier than the adults, they just had a much MUCH greater tolerance for sucking completely.",
+                "relevance": 3
+            },
+            {
+                "argument": "Kids do seem to heal faster, embrace easier than adults.",
+                "relevance": 3
+            },
+            {
+                "argument": "Kids have it worse than adults.",
+                "relevance": 2
+            },
+            {
+                "argument": "Many times adults think it is easier and faster to do something themselves rather than ask their kids to help.",
+                "relevance": "2"
+            },
+            {
+                "argument": "Recent MBA's do worse than average adults, CEO's slightly better (than the kids), CEO's with an administrative assistant better still.",
+                "relevance": 2
+            },
+            {
+                "argument": "Researchers are finding that, just because kids can learn a new language quicker or easier than adults, doesn't mean that adults are unable to.",
+                "relevance": 3
+            },
+            {
+                "argument": "The experts who designed it learned that kids learn best this way and that children learn languages much faster and easier than adults.",
+                "relevance": 1
+            },
+            {
+                "argument": "These super-abled heroic adults were typically smarter, stronger, faster, and often more moral than were we kids.",
+                "relevance": 3
+            },
+            {
+                "argument": "We know kids recover quicker and better than adults because a child's brain has more capability for recovery.\"",
+                "relevance": 3
+            },
+            {
+                "argument": "When I say that I advocate respecting adults, I mean that because adults are smarter, have been on this earth longer and have had more experience, and know better than stupid punk kids how the world works, they are in general, deserving of respect.",
+                "relevance": 3
+            },
+            {
+                "argument": "Yeah, it's total bogus, in fact adults learn languages faster and better than kids with the same investment in time and dedication .",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "laptop",
+        "obj2": "desktop",
+        "arguments": [
+            {
+                "argument": "\" This is especially true for laptops, as upgrading a laptop is harder - and more expensive - than upgrading a desktop.",
+                "relevance": 3
+            },
+            {
+                "argument": "A laptop needs greater bandwidth than a mobile device does, so your phone can load pages faster on a slow connection compared to a desktop.",
+                "relevance": 2
+            },
+            {
+                "argument": "Although I could continue blogging from my other system, I really need to get the laptop back online since it's easier to do my video work from my laptop because it's faster than my desktop.",
+                "relevance": 2
+            },
+            {
+                "argument": "But editing on a desktop that is configured with the fastest processor and the right graphics card and at least 8gb of ram, will be smoother and faster than a laptop.",
+                "relevance": 3
+            },
+            {
+                "argument": "Doctors like the iPad because its lighter and quicker than carrying a laptop and easier than locating a desktop, Larson said in the video.",
+                "relevance": 2
+            },
+            {
+                "argument": "He only needs the Internet, and I was thinking this would be easier for him than a computer because it's mobile and even lighter than a laptop.",
+                "relevance": 2
+            },
+            {
+                "argument": "I can type faster on a laptop keyboard than a full keyboard any day.",
+                "relevance": 1
+            },
+            {
+                "argument": "I have to say it was faster and better than my emachines laptop which was a athlon 2400ghz laptop.",
+                "relevance": 1
+            },
+            {
+                "argument": "I put SuSE on the laptop because it installs faster and easier than Gentoo, which I have on my desktop/server.",
+                "relevance": 0
+            },
+            {
+                "argument": "It makes deployment easier, and there are no hard feelings or crushed egos because someone got a better laptop than you did.",
+                "relevance": 0
+            },
+            {
+                "argument": "It turns out that my laptop runs even faster and better than my desktop.",
+                "relevance": 3
+            },
+            {
+                "argument": "It's quicker than my Toshiba laptop.",
+                "relevance": 1
+            },
+            {
+                "argument": "Just because my laptop is easier to set up in a cafe don't make it better than my desktop CPU.",
+                "relevance": 3
+            },
+            {
+                "argument": "My 5 year old Intel LAPTOP runs better and faster than a friend's 1 year old AMD desktop.",
+                "relevance": 2
+            },
+            {
+                "argument": "Solve the interface issue, re-wirte all the business software to make it faster and easier to use than it is with a keyboard and you can replace the laptop or pc format.",
+                "relevance": 0
+            },
+            {
+                "argument": "The iMac is non-upgradeable laptop hardware... far inferior to even a mid-range desktop.",
+                "relevance": 2
+            },
+            {
+                "argument": "To run Intelli-studio, a laptop computer requires better and faster components than a desktop PC.",
+                "relevance": 3
+            },
+            {
+                "argument": "While not the highest specification around, the Verona is better equipped than a netbook and at 1.6kg is much easier to lug around than the average laptop.",
+                "relevance": 1
+            },
+            {
+                "argument": "Your desktop probably has better video and a faster hard drive than your laptop.",
+                "relevance": 2
+            },
+            {
+                "argument": "scalable: with a desktop pc you can swap out bits and pieces faster and with greater variety than a laptop.",
+                "relevance": 3
+            },
+            {
+                "argument": "A laptop needs greater bandwidth than a mobile device does, so your phone can load pages faster on a slow connection compared to a desktop.",
+                "relevance": 2
+            },
+            {
+                "argument": "Solve the interface issue, re-wirte all the business software to make it faster and easier to use than it is with a keyboard and you can replace the laptop or pc format.",
+                "relevance": 0
+            }
+        ]
+    },
+    {
+        "obj1": "microsoft",
+        "obj2": "sony",
+        "arguments": [
+            {
+                "argument": "But Microsoft made these updates go much faster, smoother, and less frequent than Sony ever did with the PlayStation 3.",
+                "relevance": 3
+            },
+            {
+                "argument": "I personally thought that Microsoft set a better tone with their conference which included far superior pacing than Sony.",
+                "relevance": 2
+            },
+            {
+                "argument": "I will say though, that I trust microsoft a lot better than sony, customer wise.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Microsoft has some great shooters, but really beyond that is inferior to Sony.",
+                "relevance": "3"
+            },
+            {
+                "argument": "Microsoft holds a \"superior position\" over Sony as whenever consoles change Sony's software tools \"are lame.\"",
+                "relevance": 3
+            },
+            {
+                "argument": "Microsoft is better & 2 times faster than Sony.",
+                "relevance": 3
+            },
+            {
+                "argument": "Microsoft is inferior to Sony in terms of gaming.",
+                "relevance": 3
+            },
+            {
+                "argument": "Microsoft is much worse than Sony.",
+                "relevance": 2
+            },
+            {
+                "argument": "Microsoft: Our first party games are superior to Sony and Nintendo's .",
+                "relevance": 2
+            },
+            {
+                "argument": "Now I was expecting Nintendo to be better than Microsoft but worse than Sony.",
+                "relevance": 1
+            },
+            {
+                "argument": "Now, hopefully Sony is smarter about it than Microsoft.",
+                "relevance": 2
+            },
+            {
+                "argument": "Sony is Working Harder for Gamers Than Microsoft and Nintendo .",
+                "relevance": 3
+            },
+            {
+                "argument": "Sony is a superior hardware manufacturer, much better than both Nintendo and Microsoft.",
+                "relevance": 1
+            },
+            {
+                "argument": "Sony is better than Microsoft at designing hardware\" .",
+                "relevance": "3"
+            },
+            {
+                "argument": "Sony is slower than Microsoft.",
+                "relevance": 2
+            },
+            {
+                "argument": "Sony was a bit smarter than Microsoft here.",
+                "relevance": 3
+            },
+            {
+                "argument": "The fact is Microsoft has a much better (easier to use) SDK for games than Sony does.",
+                "relevance": 3
+            },
+            {
+                "argument": "They are superior to Microsoft in every way possible.",
+                "relevance": 1
+            },
+            {
+                "argument": "When asked why the PS4 is so physically superior to the Xbox One, the simple answer is: Sony is better than Microsoft at designing hardware.",
+                "relevance": 2
+            },
+            {
+                "argument": "if you ask me they will be the same it will come down to online services and customer service thinks Microsoft has very clearly proven far better than sony.",
+                "relevance": 3
+            }
+        ]
+    },
+    {
+        "obj1": "pasta",
+        "obj2": "pizza",
+        "arguments": [
+            {
+                "argument": "\"Tomato sauce on grains or pasta would be better than pizza, however,because cheese can carry a lot of fat.\"",
+                "relevance": 3
+            },
+            {
+                "argument": "And it made him so happy that you liked pizza better than pasta. \"",
+                "relevance": 2
+            },
+            {
+                "argument": "As the temperature in Chicago drops, there is nothing better than a pasta dinner at a cozy restaurant.",
+                "relevance": 2
+            },
+            {
+                "argument": "I can make a classic tomato pasta faster than they can deliver that horrible pizza!",
+                "relevance": 2
+            },
+            {
+                "argument": "I thought the pizza was great better than the pasta.",
+                "relevance": 2
+            },
+            {
+                "argument": "It's in a village hall so for me pizza seems easier than pre making pasta then heating up although there are kitchen facilities.",
+                "relevance": 3
+            },
+            {
+                "argument": "Nothing tastes better than cold pasta!!!",
+                "relevance": 1
+            },
+            {
+                "argument": "Pizza takeout and delivery, and more: \"Offering superior grilled pizza and gourmet pizzas, Pressed sandwiches suitable for most taste buds, Great big salads for health conscious people, Delicate pasta dishes, and a Variety of desserts and fresh fruit.",
+                "relevance": "0"
+            },
+            {
+                "argument": "Pizza takeout and delivery, and more: \"Offering superior grilled pizza and gourmet pizzas, Pressed sandwiches suitable for most taste buds, Great big salads for health conscious people, Delicate pasta dishes, and a Variety of desserts and fresh fruit.\"",
+                "relevance": 2
+            },
+            {
+                "argument": "Short of calling for pizza delivery, there is no easier way to feed a crowd than with a really great baked pasta.",
+                "relevance": 3
+            },
+            {
+                "argument": "Spouse's pizza was better than my pasta.",
+                "relevance": 2
+            },
+            {
+                "argument": "The pasta options are very high in calories and sodium, though I suppose sharing a pasta dish could be better than sharing a pizza.",
+                "relevance": 2
+            },
+            {
+                "argument": "The pasta was a lot nicer than the pizzas as the pasta is homemade but the pizza didn't taste homemade and was way overdone.",
+                "relevance": 3
+            },
+            {
+                "argument": "The uk ad is worse, but we have different pasta choices than you guys.",
+                "relevance": 1
+            },
+            {
+                "argument": "There's a place on Coffee that people say actually has better pasta than Chefs does.",
+                "relevance": 1
+            },
+            {
+                "argument": "This fresh summer pasta dish comes together quicker than it takes for the pizza delivery guy to get to your house.",
+                "relevance": 3
+            },
+            {
+                "argument": "Those nights have been replaced with French toast or pasta (both of which can be on the table faster than take out pizza).",
+                "relevance": 3
+            },
+            {
+                "argument": "We were told that pasta was faster than pizza.",
+                "relevance": "3"
+            },
+            {
+                "argument": "piggybacking off your burger thread - you can do worse than pasta mista right over where Five Guys is in that strip mall across from the 1st Mariner building.",
+                "relevance": 0
+            }
+        ]
+    },
+    {
+        "obj1": "skiing",
+        "obj2": "snowboarding",
+        "arguments": [
+            {
+                "argument": "\"Skiing is worse than snowboarding,\" she said.",
+                "relevance": 2
+            },
+            {
+                "argument": "6) Snowboarding is MUCH harder than skiing IMO.",
+                "relevance": 2
+            },
+            {
+                "argument": "Although it can be a bit difficult at first, snowboarding is actually a lot easier and less dangerous than skiing.",
+                "relevance": 3
+            },
+            {
+                "argument": "And I think snowboarding is much harder than skiing for beginners because it is so restrictive and hard to turn but they are equally as difficult to master.",
+                "relevance": 3
+            },
+            {
+                "argument": "Front-Back balance is a finer instrument than Left-Right balance and offers a greater degree of artistic freedom e.g. skiing (Left-Right balance) is faster than snowboarding (Front-Back balance), however people prefer to snowboard because of the greater artistic expression.",
+                "relevance": 3
+            },
+            {
+                "argument": "I know skiing is easier to learn than snowboarding.",
+                "relevance": 2
+            },
+            {
+                "argument": "I was laughing more at the \"snowboarding is cooler for angsty teenagers, hence skiing is cooler by being anti-cool\" comment.",
+                "relevance": 3
+            },
+            {
+                "argument": "In Europe, at least, snowboarding is no longer \"cooler\" than skiing.",
+                "relevance": 3
+            },
+            {
+                "argument": "It gets a lot easier after about the fourth day and the learning curve is a lot quicker than skiing.",
+                "relevance": 1
+            },
+            {
+                "argument": "Let's face it, snowboarding is cooler than skiing.",
+                "relevance": 2
+            },
+            {
+                "argument": "Ski boots that are designed just for kids are a good bet because they're more flexible than boots for adults, and they have buckles that are easier to manage, too - making it quicker for you to get skiing!",
+                "relevance": 1
+            },
+            {
+                "argument": "Skiing is better than snowboarding.",
+                "relevance": 2
+            },
+            {
+                "argument": "Skiing is hands down better than snowboarding.",
+                "relevance": 2
+            },
+            {
+                "argument": "Snowboarding Surprisingly or not snowboarding burns fat faster than skiing.",
+                "relevance": 2
+            },
+            {
+                "argument": "Snowboarding feels smoother than skiing does.",
+                "relevance": 3
+            },
+            {
+                "argument": "Snowboarding has a steeper learning curve at the very beginning -- the first day or two can be very difficult -- but then after you figure out how to turn, it's easier to learn than skiing.",
+                "relevance": 3
+            },
+            {
+                "argument": "Snowboarding is harder to learn for the first few days than skiing but after that it's easier to progress, you will most likely move from green to blue to black faster than you did on skiis.",
+                "relevance": 2
+            },
+            {
+                "argument": "Snowboarding is loads easier than skiing!",
+                "relevance": 3
+            },
+            {
+                "argument": "Snowboarding is more difficult at first, but then in becomes easier faster than skiing IMO.",
+                "relevance": 3
+            },
+            {
+                "argument": "Why Skiing is better than snowboarding .",
+                "relevance": 2
+            }
+        ]
+    }
+]
